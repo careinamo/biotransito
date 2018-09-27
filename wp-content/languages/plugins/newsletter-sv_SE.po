@@ -1,0 +1,1686 @@
+# Translation of Plugins - Newsletter - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Newsletter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-15 17:56:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Newsletter - Stable (latest release)\n"
+
+#: emails/edit.php:640
+msgid "Get/Become <em>[something]</em>. 10 Ideas That Work"
+msgstr "Bli <em>[någonting]</em>. 10 idéer som fungerar"
+
+#: emails/edit.php:639
+msgid "The 10 Rules for <em>[something]</em>"
+msgstr "De 10 reglerna för hur man <em>[någonting]</em>"
+
+#: emails/edit.php:638
+msgid "The Top 10 <em>[something]</em>"
+msgstr "De 10 bästa <em>[någonting]</em>"
+
+#: emails/edit.php:637
+msgid "10 Ways to <em>[something]</em>"
+msgstr "10 sätt att <em>[någonting]</em>"
+
+#: emails/edit.php:634
+msgid "Don't do These 10 Things When <em>[something]</em>"
+msgstr "Undvik dessa 10 saker när <em>[någonting]</em>"
+
+#: emails/edit.php:633
+msgid "10 <em>[something]</em> Mistakes That Make You Look Dumb"
+msgstr "10 <em>[någonting]</em> misstag som får dig att verka dum"
+
+#: emails/edit.php:632
+msgid "Do You Make These 10 <em>[something]</em> Mistakes?"
+msgstr "Gör du dessa 10 <em>[någonting]</em> misstag?"
+
+#: emails/edit.php:629
+msgid "Secrets of [famous people]"
+msgstr "Hemliga knep som [kända personer] använder"
+
+#: emails/edit.php:628
+msgid "How to End [problem]"
+msgstr "Hur du får stopp på [problem]"
+
+#: emails/edit.php:627
+msgid "Get Rid of <em>[problem]</em> Once and Forever"
+msgstr "Lös <em>[problem]</em> för all framtid"
+
+#: emails/edit.php:626
+msgid "10 Ways to Simplify Your <em>[something]</em>"
+msgstr "10 sätt att förenkla ditt <em>[nånting]</em>"
+
+#: emails/edit.php:623
+msgid "10 Lies <em>[kind of people]</em> Likes to Tell"
+msgstr "10 lögner <em>[viss kategori människor]</em> gärna använder"
+
+#: emails/edit.php:622
+msgid "10 Warning Signs That <em>[something]</em>"
+msgstr "10 varningssignaler på <em>[någonting]</em>"
+
+#: emails/edit.php:621
+msgid "How safe is your <em>[something]</em> from <em>[danger]</em>?"
+msgstr "Hur god säkerhet har <em>[någonting]</em> hos dig med avseende på <em>[risk]</em>?"
+
+#: emails/edit.php:342
+msgid "Insert emoji"
+msgstr "Lägg in emoji"
+
+#: emails/edit.php:340
+msgid "Get ideas"
+msgstr "Hitta idéer"
+
+#: main/welcome.php:212
+msgid "Next"
+msgstr "Nästa"
+
+#: main/welcome.php:211
+msgid "Previous"
+msgstr "Föregående"
+
+#: main/welcome.php:205
+msgid "Go to your dashboard"
+msgstr "Gå till din adminpanel"
+
+#: main/welcome.php:200
+msgid "If you are unsure on how to use some features of Newsletter, reach for our official documentation."
+msgstr "Om du är osäker på hur du använder vissa funktioner i Newsletter, använd vår officiella dokumentation."
+
+#: main/welcome.php:193
+msgid "You can also follow us through our social accounts"
+msgstr "Du kan också följa oss genom våra sociala konton"
+
+#: main/welcome.php:188
+msgid "Your email"
+msgstr "Din e-post"
+
+#: main/welcome.php:187
+msgid "Be always updated with the latest releases and tips from our headquarters"
+msgstr "Var alltid uppdaterad med de senaste utgåvorna och tipsen från vårt huvudkontor"
+
+#: main/welcome.php:183
+msgid "You're now ready to begin using Newsletter!"
+msgstr "Du är nu redo att börja använda Newsletter!"
+
+#: main/welcome.php:172
+msgid "Take me to my widget settings (opens in a new window)"
+msgstr "Ta mig till mina widgetinställningar (öppnas i ett nytt fönster)"
+
+#: main/welcome.php:170
+msgid "If you use sidebars in your blog, it may be a good idea to add a subscription form there. Remember to come back here when you're done"
+msgstr "Om du använder sidopaneler i din blogg kan det vara en bra idé att lägga till ett prenumerationsformulär där. Kom ihåg att komma tillbaka hit när du är klar"
+
+#: main/welcome.php:169
+msgid "Add Newsletter widget to sidebar"
+msgstr "Lägg till en widget för nyhetsbrev i en sidopanel"
+
+#: main/welcome.php:159
+msgid "Email address"
+msgstr "E-postadress"
+
+#: main/welcome.php:158
+msgid "Check if your website can send emails correctly."
+msgstr "Kontrollera om din webbplats kan skicka e-post korrekt."
+
+#: main/welcome.php:157
+msgid "Time for some tests!"
+msgstr "Dags för några tester!"
+
+#: main/welcome.php:152
+msgid "We've just created the page where your visitors will subscribe and where they will edit their preferences."
+msgstr "Vi har precis skapat den sida där dina besökare kommer att prenumerera och var de ska ändra sina inställningar."
+
+#: main/welcome.php:151
+msgid "Subscription and Edit<br>page creation"
+msgstr "Att skapa en sida för<br>prenumeration och ändringar"
+
+#: main/welcome.php:142
+msgid "Subscribe button label"
+msgstr "Etikett på prenumerationsknapp"
+
+#: main/welcome.php:135
+msgid "Add a privacy checkbox"
+msgstr "Lägg till en kryssruta för integritet"
+
+#: main/welcome.php:128
+msgid "Ask for their name"
+msgstr "Fråga efter deras namn"
+
+#: main/welcome.php:125
+msgid "Choose what to ask to your subscribers in your forms."
+msgstr "Välj vad du ska fråga till dina prenumeranter i dina formulär."
+
+#: main/welcome.php:124
+msgid "Subscription Forms"
+msgstr "Prenumerationsformulär"
+
+#: main/welcome.php:118
+msgid "Sender email"
+msgstr "E-postadress för avsändare"
+
+#: main/welcome.php:116
+msgid "Choose which name and email address you'd like to appear as the sender of your newsletters."
+msgstr "Välj namn och e-postadress som du vill ska visas som avsändare för dina nyhetsbrev."
+
+#: main/welcome.php:115
+msgid "Sender"
+msgstr "Avsändare"
+
+#: main/welcome.php:109
+msgid "In this short tutorial we will guide you through some of the basic settings to get the most out of our plugin. "
+msgstr "I den här korta handledningen guidar vi dig genom några av de grundläggande inställningarna för att få ut mesta möjliga av vårt tillägg."
+
+#: main/welcome.php:108
+msgid "Welcome to The Newsletter Plugin and thank your for choosing the best mail management system for Wordpress!"
+msgstr "Välkommen till tillägget Newsletter och tack för att du valt det bästa systemet för hantering av e-postutskick i WordPress!"
+
+#: main/welcome.php:49
+msgid "There was an error. Complete the setup and then use the status panel to check it out."
+msgstr "Ett fel har inträffat. Genomför resten av konfigureringen och kontrollera sedan statuspanelen för att försöka lösa problemet."
+
+#: main/welcome.php:43
+msgid "Check your mailbox for a test message. Check the spam folder as well."
+msgstr "Kontrollera att e-postmeddelandet kom fram. Du kan även behöva i mappen för skräppost."
+
+#: main/welcome.php:31
+msgid "Please check the email address, it seems wrong."
+msgstr "Kontrollera e-postadressen, den verkar fel."
+
+#: main/main.php:159
+msgid "A license key is set"
+msgstr "En licensnyckel har angivits"
+
+#: users/massive.php:56
+msgid "removed from list"
+msgstr "borttagen från listan"
+
+#: users/massive.php:51
+msgid "added to list"
+msgstr "tillagt i listan"
+
+#: users/statistics.php:234
+msgid "Not specified"
+msgstr "Inte angivet"
+
+#: users/statistics.php:220 users/statistics.php:227
+msgid "Female"
+msgstr "Kvinna"
+
+#: users/statistics.php:143
+msgid "Referrer"
+msgstr "Hänvisande webbsida"
+
+#: users/statistics.php:60
+msgid "Any"
+msgstr "Minst en"
+
+#: users/statistics-time.php:32
+msgid "Subscriptions by day (max 90 days)"
+msgstr "Prenumerationer per dag (maximalt 90 dagar)"
+
+#: users/statistics-time.php:16
+msgid "Year and month"
+msgstr "År och månad"
+
+#: users/statistics-time.php:8
+msgid "Subscriptions by month (max 12 months)"
+msgstr "Prenumerationer per månad (maximalt 12 månader)"
+
+#: users/new.php:21
+msgid "This subscriber already exists."
+msgstr "Denna prenumerant finns redan."
+
+#: users/new.php:12
+msgid "Wrong email address."
+msgstr "Fel e-postadress."
+
+#: users/massive.php:236
+msgid "to"
+msgstr "till"
+
+#: users/massive.php:235
+msgid "all subscribers in"
+msgstr "alla prenumeranter i"
+
+#: users/massive.php:156
+msgid "Bounces"
+msgstr "Studsar"
+
+#: users/index.php:246
+msgid "Resend activation"
+msgstr "Skicka aktivering igen"
+
+#: users/index.php:158
+msgid "The list below is filtered."
+msgstr "Listan nedan är filtrerad."
+
+#: users/import.php:179
+msgid "Import mode"
+msgstr "Importläge"
+
+#: users/edit.php:235
+msgid "Profile URL"
+msgstr "URL till profil"
+
+#: users/edit.php:229
+msgid "Secret token"
+msgstr "Hemlig teckensträng"
+
+#: users/edit.php:223
+msgid "IP address"
+msgstr "IP-adress"
+
+#: users/edit.php:182
+msgid "Value"
+msgstr "Värde"
+
+#: users/edit.php:181 users/index.php:178
+msgid "Name"
+msgstr "Namn"
+
+#: users/edit.php:147
+msgid "Test subscriber"
+msgstr "Testprenumerant"
+
+#: users/edit.php:129
+msgid "Last name"
+msgstr "Efternamn"
+
+#: users/edit.php:123
+msgid "First name"
+msgstr "Förnamn"
+
+#: users/edit.php:117 users/new.php:49
+msgid "Email"
+msgstr "E-post"
+
+#: users/edit.php:40
+msgid "Error. Check the log files."
+msgstr "Fel. Kontrollera loggfilerna."
+
+#: users/edit.php:21
+msgid "The email address is already in use"
+msgstr "E-postadressen används redan"
+
+#: users/edit.php:15
+msgid "Wrong email address"
+msgstr "Fel e-postadress"
+
+#: subscription/options.php:403
+msgid "Alternative profile page URL"
+msgstr "URL för alternativ profilsida"
+
+#: subscription/options.php:376
+msgid "Welcome email"
+msgstr "Välkomstmeddelande"
+
+#: subscription/options.php:366
+msgid "Conversion tracking code"
+msgstr "Spårningskod för konvertering"
+
+#: subscription/options.php:359
+msgid "Alternative welcome page URL"
+msgstr "URL till alternativ välkomstsida"
+
+#: subscription/options.php:352
+msgid "Welcome message"
+msgstr "Välkomstmeddelande"
+
+#: subscription/options.php:335
+msgid "Activation email"
+msgstr "E-postmeddelande för aktivering"
+
+#: subscription/options.php:326
+msgid "Alternative activation page"
+msgstr "Alternativ aktiveringssida"
+
+#: subscription/options.php:319
+msgid "Activation message"
+msgstr "Aktiveringsmeddelande"
+
+#: subscription/options.php:314
+msgid "Only for double opt-in mode."
+msgstr "Endast vid läge för bekräftat aktivt val."
+
+#: subscription/options.php:303
+msgid "Error page"
+msgstr "Felsida"
+
+#: subscription/options.php:266
+msgid "Antiflood"
+msgstr "Skydd mot överbelastning"
+
+#: subscription/options.php:261
+msgid "Disable for ajax form submission"
+msgstr "Inaktivera insändning av formulär via ajax"
+
+#: subscription/options.php:257
+msgid "Disable antibot/antispam?"
+msgstr "Inaktivera skydd mot robotar och spam?"
+
+#: subscription/options.php:245
+msgid "Subscription page"
+msgstr "Prenumerationssida"
+
+#: subscription/options.php:222
+msgid "Notifications"
+msgstr "Notiser"
+
+#: subscription/options.php:207
+msgid "Create the page"
+msgstr "Skapa en sida"
+
+#: subscription/options.php:204
+msgid "Unstyled page"
+msgstr "Sida utan stilar"
+
+#: subscription/options.php:202
+msgid "Dedicated page"
+msgstr "Dedikerad sida"
+
+#: subscription/options.php:197
+msgid "Single Opt In"
+msgstr "Obekräftat aktivt val"
+
+#: subscription/options.php:197
+msgid "Double Opt In"
+msgstr "Bekräftat aktivt val"
+
+#: subscription/options.php:195
+msgid "Opt In"
+msgstr "Aktivt val"
+
+#: subscription/options.php:188
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: subscription/options.php:187
+msgid "Activation"
+msgstr "Aktivering"
+
+#: main/main.php:229
+msgid "Email encoding"
+msgstr "Teckenkodning för e-postmeddelande"
+
+#: main/main.php:222
+msgid "Send email directly"
+msgstr "Skicka e-post direkt"
+
+#: main/main.php:215
+msgid "Debug mode"
+msgstr "Felsökningsläge"
+
+#: main/main.php:207
+msgid "Log level"
+msgstr "Loggningsnivå"
+
+#: main/main.php:199
+msgid "Enable access to blog editors?"
+msgstr "Aktivera åtkomst till bloggredigerare?"
+
+#: main/main.php:163
+msgid "Find it in <a href=\"%s\" target=\"_blank\">your account</a> page"
+msgstr "Hitta det på <a href=\"%s\" target=\"_blank\">din konto</a> sida"
+
+#: main/main.php:156
+msgid "License key"
+msgstr "Licensnyckel"
+
+#: main/main.php:90
+msgid "Your Return Path domain is different from your Sender domain. Providers may require them to match."
+msgstr "Domänen i adressen för ”svar till” är inte samma som din avsändardomän. Vissa tjänsteleverantörer kan kräva att de stämmer överens."
+
+#: main/info.php:84
+msgid "Copyright or legal text"
+msgstr "Text för upphovsrätt eller juridiska villkor"
+
+#: main/info.php:78
+msgid "Address"
+msgstr "Adress"
+
+#: main/info.php:72
+msgid "Company name"
+msgstr "Företagsnamn"
+
+#: main/info.php:68
+msgid "Footer Settings"
+msgstr "Sidfotsinställningar"
+
+#: main/info.php:61
+msgid "Motto"
+msgstr "Motto"
+
+#: main/info.php:47
+msgid "Logo"
+msgstr "Logga"
+
+#: main/info.php:42
+msgid "Header Settings"
+msgstr "Inställningar för sidhuvud"
+
+#: includes/controls.php:1458 includes/controls.php:1468
+msgid "Need help?"
+msgstr "Behövs hjälp?"
+
+#: includes/controls.php:1447
+msgid "Read more"
+msgstr "Läs mer"
+
+#: includes/controls.php:1324
+msgid "Center"
+msgstr "Centrerat"
+
+#: includes/controls.php:1323
+msgid "Right"
+msgstr "Höger"
+
+#: includes/controls.php:1323
+msgid "Left"
+msgstr "Vänster"
+
+#: emails/tnp-composer/edit.php:106
+msgid "Font family"
+msgstr "Typsnittsfamilj"
+
+#: emails/themes/default/theme-options.php:53
+msgid "Post types"
+msgstr "Inläggstyper"
+
+#: emails/themes/default/theme-options.php:47
+msgid "Max posts"
+msgstr "Max inlägg"
+
+#: emails/themes/default/theme-options.php:40
+msgid "Tags"
+msgstr "Etiketter"
+
+#: emails/themes/default/theme-options.php:21
+msgid "Posts"
+msgstr "Inlägg"
+
+#: emails/themes/cta-2015/theme-options.php:6
+#: emails/themes/default/theme-options.php:8
+msgid "Primary color"
+msgstr "Primär färg"
+
+#: emails/themes/blank/theme-options.php:6
+#: emails/themes/default/theme-options.php:15
+msgid "Disable social links"
+msgstr "Inaktivera sociala länkar"
+
+#: emails/edit.php:432
+msgid "Approximated subscribers count"
+msgstr "Ungefärligt antal prenumeranter"
+
+#: emails/edit.php:425
+msgid "Only to subscribers linked to WP users"
+msgstr "Endast till prenumeranter som är kopplade till WP-användare"
+
+#: emails/edit.php:406
+msgid "None"
+msgstr "Ingen"
+
+#: emails/edit.php:404
+msgid "must not in one of"
+msgstr "får inte ingå i någon av"
+
+#: emails/edit.php:402
+msgid "All"
+msgstr "Allt"
+
+#: emails/edit.php:400
+msgid "Match all of"
+msgstr "Matcha alla i"
+
+#: emails/edit.php:400
+msgid "Match at least one of"
+msgstr "Matcha åtminstone ett av alternativen i"
+
+#: emails/edit.php:391
+msgid "Leaving all multichoice options unselected is like to select all them"
+msgstr "Att lämna alla flervalsalternativ omarkerade har samma effekt som att markera alla"
+
+#: emails/edit.php:334
+msgid "Switch editor"
+msgstr "Ändra redigerare"
+
+#: emails/edit.php:328
+msgid "Test"
+msgstr "Test"
+
+#: emails/edit.php:258
+msgid "This newsletter will be sent to not confirmed subscribers."
+msgstr "Detta nyhetsbrev kommer att sändas till obekräftade prenumeranter."
+
+#: emails/blocks/separator/options.php:23
+msgid "Height"
+msgstr "Höjd"
+
+#: emails/blocks/separator/options.php:9
+msgid "Color"
+msgstr "Färg"
+
+#: emails/blocks/preheader/options.php:14 emails/index.php:118
+msgid "View"
+msgstr "Visa"
+
+#: subscription/options.php:276 subscription/options.php:277
+msgid "minutes"
+msgstr "minuter"
+
+#: subscription/options.php:275
+msgid "minute"
+msgstr "minut"
+
+#: subscription/options.php:271 subscription/options.php:272
+#: subscription/options.php:273 subscription/options.php:274
+msgid "seconds"
+msgstr "sekunder"
+
+#: subscription/options.php:270
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: subscription/languages/en_US.php:20
+msgid ""
+"{profile_form}\n"
+"    <p>If you change your email address, a confirmation email will be sent to activate it.</p>\n"
+"    <p><a href=\"{unsubscription_confirm_url}\">Cancel your subscription</a></p>"
+msgstr ""
+"{profile_form}\n"
+"    <p>Om du ändrar din e-postadress kommer ett bekräftelsemeddelande att skickas för aktivering.</p>\n"
+"    <p><a href=\"{unsubscription_confirm_url}\">Avbryt prenumerationen</a></p>"
+
+#: subscription/subscription.php:1493
+msgid "Subscriber profile not found."
+msgstr "Prenumerationsprofilen hittades inte."
+
+#: emails/tnp-composer/edit.php:135
+msgid "Text align"
+msgstr "Textjustering"
+
+#: emails/tnp-composer/edit.php:128
+msgid "Font size"
+msgstr "Teckenstorlek"
+
+#: emails/tnp-composer/blocks/footer-01-footer.block.php:14
+msgid "View online"
+msgstr "Visa online"
+
+#: emails/tnp-composer/blocks/footer-01-footer.block.php:10
+msgid "Change your subscription"
+msgstr "Ändra din prenumeration"
+
+#: users/edit.php:217
+msgid "WP user ID"
+msgstr "WP användar-ID"
+
+#: users/edit.php:211
+msgid "Created"
+msgstr "Skapad"
+
+#: emails/themes/vimeo-like/theme-defaults.php:7
+msgid "Read More"
+msgstr "Läs mer"
+
+#: emails/edit.php:460
+msgid "Toggle"
+msgstr "Växla"
+
+#: emails/index.php:113
+msgid "No"
+msgstr "Nej"
+
+#: main/index.php:173 main/index.php:186
+msgid "Subscriptions"
+msgstr "Prenumeration"
+
+#: main/extensions.php:242 main/welcome.php:190 tnp-header.php:184
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: includes/controls.php:765
+msgid "Duplicate"
+msgstr "Duplicera"
+
+#: subscription/options.php:251
+msgid "Forced lists"
+msgstr "Tvingade listor"
+
+#: widget/minimal.php:82 widget/standard.php:222
+msgid "Automatically subscribe to"
+msgstr "Prenumerera automatiskt på"
+
+#: subscription/template.php:114
+msgid "Template"
+msgstr "Mall"
+
+#: main/extensions.php:62
+msgid "Activated"
+msgstr "Aktiverad"
+
+#: main/extensions.php:42
+msgid "Installed and activated"
+msgstr "Installerat och aktiverat"
+
+#: main/extensions.php:40 main/extensions.php:60
+msgid "Error while activating:"
+msgstr "Fel vid aktivering:"
+
+#: main/extensions.php:33
+msgid "Error while installing"
+msgstr "Fel vid installation"
+
+#: tnp-header.php:139
+msgid "Licence not valid"
+msgstr "Licensen är inte giltig"
+
+#: main/extensions.php:118 main/extensions.php:156 main/extensions.php:187
+msgid "Plugin active"
+msgstr "Tillägg aktiv"
+
+#: main/extensions.php:94
+msgid "Extensions"
+msgstr "Tillägg"
+
+#: main/extensions.php:121 main/extensions.php:159 main/extensions.php:190
+msgid "Activate"
+msgstr "Aktivera"
+
+#: tnp-header.php:64
+msgid "Subscription Form Fields, Buttons, Labels"
+msgstr "Fält, knappar och etiketter för prenumerationsformulär"
+
+#: main/status.php:182 main/welcome.php:161
+msgid "Send a test message"
+msgstr "Skicka ett testmeddelande"
+
+#: main/status.php:131
+msgid "System Status"
+msgstr "Systemstatus"
+
+#: subscription/options.php:229
+msgid "Custom styles"
+msgstr "Anpassade stilar"
+
+#: subscription/template.php:30
+msgid "No test subscribers found."
+msgstr "inga testprenumeranter hittades"
+
+#: subscription/template.php:16
+msgid "The tag {message} is missing in your template"
+msgstr "Taggen {meddelande} saknas i din mall"
+
+#: includes/controls.php:382
+msgid "Done."
+msgstr "Klar."
+
+#: main/diagnostic.php:234
+msgid "Logging"
+msgstr "Loggning"
+
+#: main/diagnostic.php:233
+msgid "Scheduler"
+msgstr "Schemalägg"
+
+#: main/diagnostic.php:232
+msgid "Tests"
+msgstr "Tester"
+
+#: emails/tnp-composer/edit.php:248
+msgid "Tags (comma separated)"
+msgstr "Etiketter (uppdelade med kommatecken)"
+
+#: emails/themes/default/theme-options.php:34 emails/tnp-composer/edit.php:243
+msgid "Categories"
+msgstr "Kategorier"
+
+#: emails/tnp-composer/edit.php:241
+msgid "Number of posts"
+msgstr "Antal inlägg"
+
+#: emails/tnp-composer/edit.php:175 emails/tnp-composer/edit.php:218
+msgid "Font Family"
+msgstr "Typsnittsfamilj"
+
+#: emails/tnp-composer/edit.php:170 emails/tnp-composer/edit.php:213
+msgid "Edit Block"
+msgstr "Redigera block"
+
+#: emails/blocks/preheader/options.php:8 emails/tnp-composer/edit.php:157
+msgid "Text"
+msgstr "Text"
+
+#: emails/tnp-composer/edit.php:154
+msgid "Edit Text"
+msgstr "Redigera text"
+
+#: emails/tnp-composer/edit.php:101 main/info.php:55
+msgid "Title"
+msgstr "Rubrik"
+
+#: emails/tnp-composer/edit.php:98
+msgid "Edit Title"
+msgstr "Redigera rubrik"
+
+#: emails/tnp-composer/edit.php:86 emails/tnp-composer/edit.php:173
+#: emails/tnp-composer/edit.php:216
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: emails/tnp-composer/edit.php:84 emails/tnp-composer/edit.php:103
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: emails/tnp-composer/edit.php:77
+msgid "Edit Button"
+msgstr "Redigera knapp"
+
+#: emails/tnp-composer/edit.php:65 emails/tnp-composer/edit.php:82
+msgid "URL"
+msgstr "URL"
+
+#: emails/tnp-composer/edit.php:63 emails/tnp-composer/edit.php:80
+msgid "TITLE"
+msgstr "RUBRIK"
+
+#: emails/tnp-composer/edit.php:60
+msgid "Edit Link"
+msgstr "Redigera länk"
+
+#: emails/tnp-composer/edit.php:20 emails/tnp-composer/edit.php:70
+#: emails/tnp-composer/edit.php:91 emails/tnp-composer/edit.php:146
+#: emails/tnp-composer/edit.php:162 emails/tnp-composer/edit.php:206
+#: emails/tnp-composer/edit.php:254 emails/tnp-composer/edit.php:264
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: emails/tnp-composer/edit.php:15
+msgid "LINK"
+msgstr "LÄNK"
+
+#: emails/tnp-composer/edit.php:13
+msgid "ALT TEXT"
+msgstr "ALT TEXT"
+
+#: emails/tnp-composer/edit.php:8
+msgid "SOURCE"
+msgstr "KÄLLA"
+
+#: users/export.php:37 users/import.php:202
+msgid "Field separator"
+msgstr "Fältavgränsare"
+
+#: emails/tnp-composer/edit.php:252
+msgid "Any prior changes to single posts will be lost when editing these settings."
+msgstr "Eventuella ändringar som gjorts i enstaka inlägg kommer att gå förlorade när dessa inställningar redigeras."
+
+#: emails/tnp-composer/edit.php:6
+msgid "Edit Image"
+msgstr "Redigera bild"
+
+#: statistics/view.php:33
+msgid "No data, newsletter not sent yet."
+msgstr "Inga data, nyhetsbrev har ännu inte skickats."
+
+#: emails/theme.php:69
+msgid "Responsive Drag & Drop Composer"
+msgstr "Responsiv miljö för byggande med dra och släpp"
+
+#: emails/composer.php:96
+msgid "Save & Preview"
+msgstr "Spara och förhandsgranska"
+
+#: emails/composer.php:88
+msgid "Read the guide"
+msgstr "Läs guiden"
+
+#. Author URI of the plugin/theme
+msgid "https://www.thenewsletterplugin.com"
+msgstr "http://www.thenewsletterplugin.com"
+
+#. Author of the plugin/theme
+msgid "Stefano Lissa & The Newsletter Team"
+msgstr "Stefano Lissa och The Newsletter Team"
+
+#. Description of the plugin/theme
+msgid "Newsletter is a cool plugin to create your own subscriber list, to send newsletters, to build your business. <strong>Before update give a look to <a href=\"https://www.thenewsletterplugin.com/category/release\">this page</a> to know what's changed.</strong>"
+msgstr "Newsletter är ett coolt tillägg för att skapa din egen prenumerationslista, för att skicka nyhetsbrev, så att du kan marknadsföra ditt företag. <strong>Innan uppdateringen ta en titt på <a href=\"https://www.thenewsletterplugin.com/category/release\">den här sidan</a> för att veta vad som ändrats.</strong>"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.thenewsletterplugin.com/plugins/newsletter"
+msgstr "http://www.thenewsletterplugin.com/plugins/newsletter"
+
+#. Plugin Name of the plugin/theme
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: users/statistics.php:29
+msgid "Subscriber statistics"
+msgstr "Prenumerantstatistik"
+
+#: users/new.php:38
+msgid "New Subscriber"
+msgstr "Ny prenumerant"
+
+#: users/massive.php:261
+msgid "One email address per line."
+msgstr "En e-postadress per rad."
+
+#: users/massive.php:257
+msgid "Bounced addresses"
+msgstr "Adresser som studsat"
+
+#: users/massive.php:215
+msgid "Delete all bounced"
+msgstr "Ta bort alla som studsat"
+
+#: users/massive.php:210 users/statistics.php:84 users/statistics.php:147
+#: users/statistics.php:180 users/statistics.php:215
+msgid "Bounced"
+msgstr "Studsat"
+
+#: users/massive.php:205
+msgid "Delete all unsubscribed"
+msgstr "Ta bort alla avslutade prenumerationer"
+
+#: users/massive.php:200 users/statistics.php:78 users/statistics.php:146
+#: users/statistics.php:179 users/statistics.php:214
+msgid "Unsubscribed"
+msgstr "Avprenumererad"
+
+#: users/massive.php:195
+msgid "We have some tips about global actions, read more."
+msgstr "Vi har några tips om globala åtgärder, läs mer."
+
+#: users/massive.php:193
+msgid "Are you sure you want to mark ALL subscribers as confirmed?"
+msgstr "Är du säker på att du vill markera ALLA prenumeranter som bekräftade?"
+
+#: users/massive.php:193
+msgid "Confirm all"
+msgstr "Bekräfta alla"
+
+#: users/massive.php:192
+msgid "Are you sure you want to delete ALL not confirmed subscribers?"
+msgstr "Är du säker på att du vill ta bort ALLA obekräftade prenumeranter?"
+
+#: users/massive.php:192
+msgid "Delete all not confirmed"
+msgstr "Ta bort alla obekräftade"
+
+#: users/massive.php:183 users/massive.php:205 users/massive.php:215
+#: users/massive.php:230 users/massive.php:231 users/massive.php:232
+#: users/massive.php:267
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#: users/massive.php:183
+msgid "Unconfirm all"
+msgstr "Avbekräfta alla"
+
+#: users/massive.php:174
+msgid "Are you sure you want to remove ALL subscribers?"
+msgstr "Är du säker på att du vill ta bort ALLA prenumeranter?"
+
+#: users/massive.php:174
+msgid "Delete all"
+msgstr "Ta bort alla"
+
+#: users/massive.php:169
+msgid "Total collected emails"
+msgstr "Totalt insamlad e-post"
+
+#: users/massive.php:165
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: users/massive.php:164 users/statistics-time.php:17
+#: users/statistics-time.php:40 users/statistics.php:55
+#: users/statistics.php:102
+msgid "Total"
+msgstr "Summa"
+
+#: users/massive.php:134
+msgid "Please, backup before run a massive action."
+msgstr "Säkerhetskopiera innan du utför en åtgärd som kan ha stora konsekvenser."
+
+#: users/massive.php:133
+msgid "Subscribers Maintenance"
+msgstr "Underhåll av prenumeranter"
+
+#: users/massive.php:46
+msgid "Subscribers deleted: "
+msgstr "Prenumeranter raderade:"
+
+#: users/massive.php:41
+msgid "Subscribers changed to confirmed: "
+msgstr "Prenumeranter ändrade till bekräftade:"
+
+#: users/massive.php:36
+msgid "Subscribers changed to not confirmed: "
+msgstr "Prenumeranter ändrade till icke bekräftade:"
+
+#: users/massive.php:31
+msgid "Subscribers bounced deleted: "
+msgstr "Studsade prenumeranter som tagits bort:"
+
+#: users/massive.php:26
+msgid "Subscribers unsubscribed deleted: "
+msgstr "Uppsagda prenumeranter som tagits bort:"
+
+#: users/massive.php:21
+msgid "Subscribers not confirmed deleted: "
+msgstr "Obekräftade prenumeranter som tagits bort:"
+
+#: subscription/options.php:394
+msgid "Profile page"
+msgstr "Profilsida"
+
+#: users/index.php:244
+msgid "Resend welcome"
+msgstr "Skicka välkomstmeddelandet igen"
+
+#: users/index.php:240
+msgid "Remove"
+msgstr "Ta bort"
+
+#: users/index.php:169
+msgid "subscriber(s) found"
+msgstr "prenumerant(er) hittades"
+
+#: users/index.php:165 users/index.php:257
+msgid "Go"
+msgstr "Gå"
+
+#: users/index.php:154
+msgid "Show lists"
+msgstr "Visa listor"
+
+#: users/index.php:151
+msgid "Reset Filters"
+msgstr "Nollställ Filter"
+
+#: users/index.php:149
+msgid "Search"
+msgstr "Sök"
+
+#: users/index.php:145
+msgid "filter by"
+msgstr "filtrera efter"
+
+#: users/index.php:143
+msgid "Search text"
+msgstr "Sök text"
+
+#: users/import.php:210
+msgid "CSV file"
+msgstr "CSV-fil"
+
+#: users/import.php:186
+msgid "user data will be left untouched if already present."
+msgstr "användardata kommer att förbli orört om dom redan finns."
+
+#: users/import.php:185
+msgid "user data will be overwritten with new informations (like name and preferences)."
+msgstr "användardata kommer att skrivas över med ny information (som namn och preferenser)."
+
+#: users/import.php:184
+msgid "user data will be updated, existing preferences will be left untouched and new ones will be added."
+msgstr "användardata kommer att uppdateras, existerande preferenser kommer lämnas orörda och nya kommer att läggas till."
+
+#: users/import.php:174
+msgid "Override status of existing users"
+msgstr "Ersätt existerande användares status"
+
+#: users/import.php:170
+msgid "Import Subscribers As"
+msgstr "Importera prenumeranter som"
+
+#: users/edit.php:86
+msgid "Editing"
+msgstr "Editering"
+
+#: tnp-header.php:146
+msgid "Licence expired"
+msgstr "Licensen har gått ut"
+
+#: tnp-header.php:143
+msgid "Licence active"
+msgstr "Licensen aktiv"
+
+#: tnp-header.php:133
+msgid "Get Professional Extensions"
+msgstr "Skaffa professionella tillägg"
+
+#: tnp-header.php:110
+msgid "External mail server"
+msgstr "Extern e-postserver"
+
+#: tnp-header.php:109
+msgid "SMTP"
+msgstr "SMTP"
+
+#: tnp-header.php:105
+msgid "Social, address, logo and general info"
+msgstr "Sociala, adress, logo och allmän info"
+
+#: tnp-header.php:103
+msgid "Delivery speed, sender details, ..."
+msgstr "Leveranshastighet, avsändardetaljer, ..."
+
+#: tnp-header.php:94
+msgid "Tracking configuration and basic data"
+msgstr "Konfigurera spårning och grundläggande data"
+
+#: tnp-header.php:92
+msgid "The classic \"write & send\" newsletters"
+msgstr "Klassiska \"skriv & sänd\" nyhetsbrev"
+
+#: tnp-header.php:91
+msgid "Single Newsletter"
+msgstr "Ett nyhetsbrev"
+
+#: tnp-header.php:82
+msgid "Change the look of your service emails"
+msgstr "Ändra utseendet på din e-post tjänst"
+
+#: tnp-header.php:81
+msgid "Messages Template"
+msgstr "Meddelandemall"
+
+#: tnp-header.php:78
+msgid "Hand coded form storage"
+msgstr "Lagring av manuellt byggt formulär"
+
+#: tnp-header.php:73
+msgid "How to give the last goodbye (or avoid it!)"
+msgstr "Hur man ger ett sista avsked (eller underviker det!)"
+
+#: tnp-header.php:72
+msgid "Unsubscription"
+msgstr "Avsluta prenumeration"
+
+#: tnp-header.php:69
+msgid "Profile the subscribers for a better targeting"
+msgstr "Profilera prenumeranterna för bättre målinriktning"
+
+#: tnp-header.php:65
+msgid "When and what data to collect"
+msgstr "När och vilken data skall sparas"
+
+#: tnp-header.php:60
+msgid "The subscription process in detail"
+msgstr "Prenumereringsprocessen i detalj"
+
+#: subscription/options.php:186 tnp-header.php:59
+msgid "Subscription"
+msgstr "Prenumeration"
+
+#: tnp-header.php:57
+msgid "List Building"
+msgstr "Skapa lista"
+
+#: tnp-header.php:51
+msgid "All about your subscribers"
+msgstr "Allt om dina prenumeranter"
+
+#: tnp-header.php:49
+msgid "Massive actions: change list, clean up, ..."
+msgstr "Massiva åtgärder: ändra lista, städa upp,..."
+
+#: main/diagnostic.php:235 tnp-header.php:48
+msgid "Maintenance"
+msgstr "Underhåll"
+
+#: tnp-header.php:47
+msgid "Export your subscribers list"
+msgstr "Exportera din lista med prenumeranter"
+
+#: tnp-header.php:46 users/export.php:23 users/export.php:52
+msgid "Export"
+msgstr "Exportera"
+
+#: tnp-header.php:45
+msgid "Import from external sources"
+msgstr "Importera från extern källa"
+
+#: tnp-header.php:44 users/import.php:146
+msgid "Import"
+msgstr "Importera"
+
+#: tnp-header.php:43
+msgid "Add, edit, search"
+msgstr "Lägg till, redigera, sök"
+
+#: tnp-header.php:42
+msgid "Search And Edit"
+msgstr "Sök och redigera"
+
+#: tnp-header.php:40 users/index.php:131
+msgid "Subscribers"
+msgstr "Prenumeranter"
+
+#: tnp-footer.php:24
+msgid "Stay updated"
+msgstr "Håll dig uppdaterad"
+
+#: tnp-footer.php:15
+msgid "Blog"
+msgstr "Blogg"
+
+#: tnp-footer.php:14
+msgid "Forum"
+msgstr "Forum"
+
+#: tnp-footer.php:13
+msgid "Your Account"
+msgstr "Ditt konto"
+
+#: tnp-footer.php:8
+msgid "Get Premium"
+msgstr "Skaffa premium"
+
+#: subscription/unsubscription.php:101
+msgid "Goodbye email"
+msgstr "Avskedsmeddelande via e-post"
+
+#: subscription/unsubscription.php:91
+msgid "Goodbye message"
+msgstr "Avskedsmeddelande"
+
+#: subscription/unsubscription.php:79
+msgid "Unsubscription message"
+msgstr "Meddelande om prenumerationsavslut"
+
+#: subscription/template.php:86
+msgid "Messages template"
+msgstr "Meddelandemall"
+
+#: subscription/profile.php:37
+msgid "Subscription Form Fields and Layout"
+msgstr "Prenumerationsformlär fält och layout"
+
+#: subscription/options.php:174
+msgid "Subscription, Profile Page Configuration"
+msgstr "Konfiguration av sida för prenumeration och profil"
+
+#: subscription/forms.php:24 tnp-header.php:77
+msgid "Custom Forms"
+msgstr "Anpassade formulär"
+
+#: statistics/view.php:26
+msgid "Statistics of"
+msgstr "Statistik för"
+
+#: statistics/settings.php:50
+msgid "This auto-generated key is used to protect the click tracking. If you change it old tracking links to external domains won't be registered anymore."
+msgstr "Den här automatiskt genererade nyckeln används för att skydda klickspårningen. Om du ändrar det, kommer gamla spårnings länkar till externa domäner inte att registreras längre."
+
+#: statistics/settings.php:46
+msgid "Secret key"
+msgstr "Hemlig nyckel"
+
+#: statistics/settings.php:38
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: statistics/settings.php:26
+msgid "Statistics Settings"
+msgstr "Statistikinställningar"
+
+#: statistics/index.php:283 tnp-header.php:100
+msgid "Settings"
+msgstr "﻿Inställningar"
+
+#: statistics/index.php:242
+msgid "Details"
+msgstr "Detaljer"
+
+#: statistics/index.php:242
+msgid "Last newsletters"
+msgstr "Senaste nyhetsbrevet"
+
+#: statistics/index.php:218 statistics/settings.php:39
+msgid "Countries"
+msgstr "Länder"
+
+#: statistics/index.php:205
+msgid "Clicked Newsletters"
+msgstr "Klickade nyhetsbrev"
+
+#: statistics/index.php:198
+msgid "Opened Newsletters"
+msgstr "Öppnade nyhetsbrev"
+
+#: statistics/index.php:191
+msgid "Total Sent Messages"
+msgstr "Totalt skickade meddelanden"
+
+#: statistics/index.php:112
+msgid "Update Charts"
+msgstr "Uppdatera diagram"
+
+#: statistics/index.php:93
+msgid "Global Newsletter Statistics"
+msgstr "Global statistik för Newsletter"
+
+#: main/smtp.php:103
+msgid "SMTP Settings"
+msgstr "SMTP-inställningar"
+
+#: main/smtp.php:21
+msgid "Saved. Remember to test your changes right now!"
+msgstr "Sparad. Kom ihåg att testa dina ändringar nu!"
+
+#: main/main.php:180
+msgid "Max emails per hour"
+msgstr "Max antal e-post per timme"
+
+#: main/main.php:148
+msgid "Reply to"
+msgstr "Svara till"
+
+#: main/main.php:141
+msgid "Return path"
+msgstr "Adress för svar"
+
+#: main/main.php:134 main/welcome.php:117
+msgid "Sender name"
+msgstr "Avsändarens namn"
+
+#: main/main.php:127
+msgid "Sender email address"
+msgstr "Avsändarens e-postadress"
+
+#: main/main.php:114
+msgid "Advanced Settings"
+msgstr "Avancerade inställningar"
+
+#: main/main.php:113
+msgid "Delivery Speed"
+msgstr "Leveranshastighet"
+
+#: main/main.php:112
+msgid "Basic Settings"
+msgstr "Grundläggande inställningar"
+
+#: main/main.php:32
+msgid "Reply to email is not correct."
+msgstr "Svar på e-post är inte korrekt."
+
+#: main/main.php:25
+msgid "Return path email is not correct."
+msgstr "E-postadressen för returväg är inte korrekt."
+
+#: main/main.php:19
+msgid "The sender email address is not correct."
+msgstr "E-postadressen för avsändaren är inte korrekt."
+
+#: emails/themes/vimeo-like/theme-options.php:25 main/info.php:38
+msgid "Social"
+msgstr "Social"
+
+#: emails/themes/vimeo-like/theme-options.php:24 main/info.php:37
+#: subscription/options.php:185 users/massive.php:154
+msgid "General"
+msgstr "Allm&auml;n"
+
+#: main/info.php:26 tnp-header.php:104
+msgid "Company Info"
+msgstr "Företagsinformation"
+
+#: main/index.php:368 subscription/options.php:189
+msgid "Profile"
+msgstr "Profil"
+
+#: main/index.php:362 users/index.php:213
+msgid "BOUNCED"
+msgstr "STUDSAT"
+
+#: main/index.php:360 users/index.php:211
+msgid "UNSUBSCRIBED"
+msgstr "AVREGISTRERADE"
+
+#: main/index.php:358 users/index.php:209
+msgid "CONFIRMED"
+msgstr "BEKRÄFTADE"
+
+#: main/index.php:356 users/index.php:207
+msgid "NOT CONFIRMED"
+msgstr "INTE BEKRÄFTADE"
+
+#: main/index.php:340
+msgid "Last Subscribers"
+msgstr "Senaste prenumeranter"
+
+#: main/index.php:316
+msgid "Buy"
+msgstr "Köp"
+
+#: main/index.php:314
+msgid "Premium"
+msgstr "Premium"
+
+#: main/index.php:259 main/index.php:345
+msgid "New"
+msgstr "Nytt"
+
+#: main/index.php:256 main/index.php:342 users/export.php:45
+#: users/statistics.php:101
+msgid "List"
+msgstr "Lista"
+
+#: main/index.php:241
+msgid "Learn how to segment your suscribers"
+msgstr "Lär dig hur man segmenterar prenumeranter"
+
+#: main/index.php:236
+msgid "All Video Tutorials"
+msgstr "Alla videoguider"
+
+#: main/index.php:230
+msgid "Problem sending messages? Start here!"
+msgstr "Problem med att skicka meddelanden? Börja här!"
+
+#: main/index.php:221
+msgid "Read all"
+msgstr "Läs allt"
+
+#: main/index.php:219 main/welcome.php:201
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: main/index.php:107
+msgid "Overall"
+msgstr "Övergripande"
+
+#: main/index.php:103
+msgid "Last Newsletter"
+msgstr "Senaste nyhetsbrev"
+
+#: main/index.php:96
+msgid "These charts are only for example:<br>create and send your first newsletter to have real statistics!"
+msgstr "Dessa diagram är endast för exempel:<br>skapa och skicka ditt första nyhetsbrev för att ha riktiga statistik!"
+
+#: main/index.php:75
+msgid "Your powerful control panel"
+msgstr "Din kraftfulla kontrollpanel"
+
+#: main/index.php:74
+msgid "Dashboard"
+msgstr "Administrationspanel"
+
+#: main/main.php:101 tnp-header.php:102
+msgid "General Settings"
+msgstr "Generella inst&auml;llningar"
+
+#: includes/module.php:692 main/index.php:281
+msgid "Draft"
+msgstr "﻿Utkast"
+
+#: includes/module.php:690
+msgid "Paused"
+msgstr "Pausat"
+
+#: includes/module.php:688
+msgid "Sent"
+msgstr "Skickat"
+
+#: includes/controls.php:778
+msgid "Delete"
+msgstr "Radera"
+
+#: includes/controls.php:752
+msgid "Back"
+msgstr "Föregående"
+
+#: includes/controls.php:744
+msgid "Reset"
+msgstr "Nollställ"
+
+#: emails/composer.php:95 emails/tnp-composer/edit.php:19
+#: emails/tnp-composer/edit.php:69 emails/tnp-composer/edit.php:90
+#: emails/tnp-composer/edit.php:145 emails/tnp-composer/edit.php:161
+#: emails/tnp-composer/edit.php:205 emails/tnp-composer/edit.php:253
+#: emails/tnp-composer/edit.php:263 includes/controls.php:736
+msgid "Save"
+msgstr "Spara"
+
+#: includes/controls.php:704
+msgid "Valid email address"
+msgstr "Giltig e-postadress"
+
+#: includes/controls.php:375
+msgid "Saved."
+msgstr "Sparad."
+
+#: emails/theme.php:57
+msgid "Select a theme"
+msgstr "Välj ett tema"
+
+#: emails/new.php:161
+msgid "Refresh the preview"
+msgstr "Uppdatera förhandsgranskning"
+
+#: emails/new.php:145
+msgid "Back to newsletter themes"
+msgstr "Tillbaka till teman för nyhetsbrev"
+
+#: emails/new.php:144
+msgid "Create a newsletter"
+msgstr "Skapa ett nyhetsbrev"
+
+#: emails/index.php:126
+msgid "Expected total at the end of the delivery may differ, due to subscriptions/unsubscriptions occured meanwhile."
+msgstr "Den förväntade totalsumman längst ned för leveransen kan avvika på grund av nya och avslutade prenumerationer som tillkommit sedan utskicket."
+
+#: emails/index.php:116 main/index.php:87 main/index.php:89 main/index.php:303
+#: tnp-header.php:50 tnp-header.php:93
+msgid "Statistics"
+msgstr "Statistik"
+
+#: emails/edit-composer.php:1 emails/index.php:114 main/index.php:302
+#: main/index.php:367 users/index.php:237
+msgid "Edit"
+msgstr "Redigera"
+
+#: emails/index.php:113
+msgid "Yes"
+msgstr "Ja"
+
+#: emails/index.php:111 includes/module.php:723 statistics/newsletters.php:64
+msgid "of"
+msgstr "av"
+
+#: emails/index.php:104 includes/module.php:684 main/index.php:278
+msgid "Sending"
+msgstr "Skickar"
+
+#: emails/index.php:102 includes/module.php:682 main/index.php:276
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+#: emails/index.php:72 statistics/newsletters.php:51
+msgid "Tracking"
+msgstr "Spårning"
+
+#: emails/index.php:71 users/statistics-time.php:39
+msgid "Date"
+msgstr "Datum"
+
+#: emails/index.php:70
+msgid "Progress"
+msgstr "Pågående"
+
+#: emails/index.php:68 statistics/index.php:252 statistics/newsletters.php:46
+msgid "Subject"
+msgstr "Ämne"
+
+#: emails/index.php:60 includes/controls.php:741 includes/controls.php:762
+#: includes/controls.php:775 users/index.php:240 users/index.php:244
+#: users/index.php:246
+msgid "Proceed?"
+msgstr "Fortsätt?"
+
+#: emails/index.php:60
+msgid "Delete selected newsletters"
+msgstr "Ta bort markerade nyhetsbrev"
+
+#: emails/index.php:59
+msgid "New newsletter"
+msgstr "Nytt nyhetsbrev"
+
+#: emails/index.php:49 main/index.php:254 statistics/newsletters.php:33
+#: tnp-header.php:89
+msgid "Newsletters"
+msgstr "Nyhetsbrev"
+
+#: emails/index.php:32
+msgid "Message deleted."
+msgstr "Meddelandet borttaget."
+
+#: emails/index.php:27
+msgid "Message duplicated."
+msgstr "Meddelandet duplicerat."
+
+#: emails/edit.php:313
+msgid "Edit Newsletter"
+msgstr "Ändra nyhetsbrev"
+
+#: emails/edit.php:475
+msgid "Send on"
+msgstr "Skicka på"
+
+#: emails/edit.php:469
+msgid "Track clicks and message opening"
+msgstr "Spåra klick och öppnande av meddelande"
+
+#: emails/edit.php:464
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: emails/edit.php:463
+msgid "Hide/show from public sent newsletter list."
+msgstr "Visa/dölj i den publika listan över skickade nyhetsbrev."
+
+#: emails/edit.php:456
+msgid "Keep private"
+msgstr "Låt vara privat"
+
+#: emails/edit.php:443
+msgid "Save to update if on targeting filters have been changed"
+msgstr "Spara för att uppdatera om målinriktnings filter har blivit förändrade"
+
+#: emails/edit.php:420 users/import.php:172 users/statistics.php:72
+#: users/statistics.php:145 users/statistics.php:178 users/statistics.php:213
+msgid "Not confirmed"
+msgstr "Inte bekräftad"
+
+#: emails/edit.php:420 users/import.php:172 users/massive.php:178
+#: users/statistics.php:66 users/statistics.php:118 users/statistics.php:144
+#: users/statistics.php:177 users/statistics.php:212
+msgid "Confirmed"
+msgstr "Bekräftad"
+
+#: emails/edit.php:395 subscription/lists.php:27 tnp-header.php:68
+#: users/edit.php:167 users/import.php:192 users/index.php:181
+#: users/massive.php:155
+msgid "Lists"
+msgstr "Listor"
+
+#: emails/edit.php:410 users/edit.php:135 users/statistics.php:211
+msgid "Gender"
+msgstr "Kön"
+
+#: emails/edit-editor.php:61 emails/edit-html.php:66
+msgid "Available tags"
+msgstr "Tillgängliga taggar"
+
+#: emails/edit.php:351 emails/edit.php:418 emails/index.php:69
+#: main/status.php:146 statistics/index.php:254 statistics/newsletters.php:48
+#: tnp-header.php:122 users/edit.php:141 users/index.php:179
+#: users/massive.php:163 users/statistics.php:54
+msgid "Status"
+msgstr "Status"
+
+#: emails/edit.php:350
+msgid "Other"
+msgstr "Annat"
+
+#: emails/edit.php:349
+msgid "Targeting"
+msgstr "Inriktning"
+
+#: emails/edit.php:348
+msgid "Message (textual)"
+msgstr "Meddelande (text)"
+
+#: emails/edit.php:347
+msgid "Message"
+msgstr "Meddelande"
+
+#: emails/edit.php:333
+msgid "This totally stop the delivery, ok?"
+msgstr "Detta stoppar leveransensen, ok?"
+
+#: emails/edit.php:333
+msgid "Stop"
+msgstr "Stopp"
+
+#: emails/edit.php:332
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: emails/edit.php:331
+msgid "Pause the delivery?"
+msgstr "Pausa leveransen?"
+
+#: emails/edit.php:331
+msgid "Pause"
+msgstr "Pausa"
+
+#: emails/edit.php:330
+msgid "Start real delivery?"
+msgstr "Påbörja riktig leverans?"
+
+#: emails/edit.php:330
+msgid "Send"
+msgstr "Skicka"
+
+#: emails/edit.php:249
+msgid "Read more about test subscribers"
+msgstr "Läs mer om testprenumeranter"
+
+#: emails/edit.php:240
+msgid "Test newsletter sent to:"
+msgstr "Test nyhetsbrev skickat till:"
+
+#: emails/edit.php:237
+msgid "There are no test subscribers to send to"
+msgstr "Det finns inga testprenumeranter att skicka till"
+
+#: emails/edit.php:228
+msgid "Delivery definitively cancelled"
+msgstr "Leverans definitivt avbruten"
+
+#: emails/edit.php:209
+msgid "Now sending, see the progress on newsletter list"
+msgstr "Skickar nu, se förloppet på nyhetsbrevslistan"
+
+#: emails/edit.php:205 emails/edit.php:233
+msgid "A subject is required to send"
+msgstr "Ett ämne krävs för att skicka"
+
+#: emails/composer.php:87
+msgid "Compose a newsletter"
+msgstr "Komponera ett nyhetsbrev"
+
+#: emails/composer.php:22 emails/new.php:16 emails/new.php:71
+msgid "Here the email subject"
+msgstr "Här är e-post ämnet"

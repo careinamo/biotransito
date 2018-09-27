@@ -1,0 +1,32 @@
+# Translation of Themes - Appointment Green in Italian
+# This file is distributed under the same license as the Themes - Appointment Green package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-13 09:25:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Appointment Green\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Appointment Green theme is a child theme of appointment which has several sections such as slider, services , widget area, etc etc. The green of this theme makes your site looks clean and elegant. Appointment Green theme comes with various locales."
+msgstr "Si tratta di un tema aziendale che è perfetto per la creazione di siti web aziendali / commerciali. Appointment Green è un tema figlio del tema Appointment e dispone di numerose sezioni: slider, servizi, area widget, ecc. La colorazione verde di questo tema renderà il tuo sito sobrio ed elegante. Il tema Appointment Green è disponibile in varie lingue."
+
+#. Theme Name of the plugin/theme
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/appointment-green-child-version-details-page-1/"
+msgstr "http://webriti.com/appointment-green-child-version-details-page-1/"

@@ -1,0 +1,216 @@
+.widget{
+    display: block;
+    position: relative;
+    
+    &:after, &:before {
+        display: table;
+        content: '';
+    }
+    &:last-child{
+        margin-bottom: 0;
+    }
+    > ul, > ol, > div > ul, > div > ol {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    ul{
+        list-style: none;
+        margin-bottom: 0;
+        li{
+            a{
+                display: block;
+            
+            }
+            ul{
+                padding-left: 20px;
+            }
+        }
+    }
+}
+
+.widget_recent_entries,
+.widget_categories,
+.widget_meta,
+.widget_archive,
+.widget_categories,
+.widget_pages,
+.widget_recent_comments{
+    ul{
+        li{
+            a{
+                line-height: 36px;
+                display: inline-block;
+                position: relative;
+                &:after{
+                    content: "";
+                    position: absolute;
+                    left: -500px;
+                    bottom: 0;
+                    right: 0;
+                    width: 1000px;
+                    height: 1px;
+                    background: #eee;
+                }
+            }
+             
+            &:first-child{
+                padding-top: 0;
+            }
+        }
+    }
+} 
+@media (max-width: 991px) {
+    .widget_recent_entries,
+    .widget_categories,
+    .widget_meta,
+    .widget_archive,
+    .widget_categories,
+    .widget_pages,
+    .widget_recent_comments{
+        ul a:after{
+            left: -250px !important;
+        }
+    } 
+}
+.widget_nav_menu {
+        padding-bottom: 1px;
+        li{
+            a{
+                padding: 10px 10px 10px 0;
+                position: relative;
+                display: block;
+                line-height: 36px;
+                &:after{
+                    content: "";
+                    background: #eee;
+                    width: 10000px;
+                    height: 1px;
+                    position: absolute;
+                    top: 100%;
+                    left: -100%;
+                    right: -100%;
+                }
+            }
+             
+        } 
+        
+    }
+    .widget_calendar{
+    table {
+        width: 100%;
+        margin: 0;
+        position: relative;
+        text-align: center;
+        background-color: #ffffff;
+        td,th{
+            padding: 6px 8px;
+            font-size: 14px;
+        }
+    }
+    caption {
+        line-height: 1;
+        font-size: 18px;
+        padding: 8px 0 8px;
+        text-align: center;
+        color: #ffffff;
+        background-color: $primary_color;
+
+    }
+    thead {
+        background-color: #444;
+        border: 1px solid #444;
+        color: #ffffff;
+        th {
+            font-weight: 300;
+        }
+        th:first-child {
+            padding-left: 26px;
+        }
+        th:last-child {
+            padding-right: 26px;
+        }
+    }
+    tbody {
+        font-weight: 300;
+        tr:first-child td {
+            padding-top: 29px;
+        }
+        tr:last-child td {
+            padding-bottom: 30px;
+        }
+        td {
+            border: none;
+            padding: 6px 8px;
+            position: relative;
+            text-align: center;
+        }
+        td:first-child {
+            padding-left: 26px;
+        }
+        td:last-child {
+            padding-right: 26px;
+        }
+        td a {
+            font-weight: 700;
+            color: $primary_color;
+        }
+        td a:hover {
+            color: #444;
+        }
+    }
+    th {
+        text-align: center;
+        border: 0;
+        color: inherit;
+    }
+    td {
+        border: 0;
+    }
+    tfoot {
+        position: absolute;
+        top: -3px;
+        right: 0;
+        left: 0;
+        td {
+            position: absolute;
+            top: 0;
+            a {
+                color: #ffffff;
+                text-align: center;
+                font-size: 0;
+                width: 60px;
+                height: 37px;
+                line-height: 40px;
+                display: inline-block;
+            }
+            a:hover {
+                color: #dddddd;
+            }
+        }
+        #prev {
+            left: 0;
+            padding: 0;
+            a {
+                border-right: 1px solid rgba(255, 255, 255, 0.2);
+            }
+            a:before {
+                font-size: 14px;
+                font-family: 'fontawesome';
+                content: '\f100';
+            }
+        }
+        #next {
+            right: 0;
+            padding: 0;
+            a {
+                border-left: 1px solid rgba(255, 255, 255, 0.2);
+            }
+            a:after {
+                font-size: 14px;
+                font-family: 'fontawesome';
+                content: '\f101';
+            }
+        }
+    }
+} 

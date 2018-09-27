@@ -1,0 +1,27 @@
+
+@media screen and (min-width: $boxed_width){
+	body .cs-boxed {
+	    width: $boxed_width;
+	    margin: 0 auto;
+	    overflow: hidden;
+	}
+	body.boxed-layout{ 
+		.header-fixed{
+			width: $boxed_width !important;
+		}
+		.rev_slider_wrapper.fullwidthbanner-container{
+			width: $boxed_width !important;
+		    left: 50% !important;
+		    @include transform(translate(-50%, 0));
+		}
+		.vc_row[data-vc-stretch-content="true"]{
+			width: $boxed_width !important;
+			margin: 0 auto;
+		    left: 50% !important;
+		    @include transform(translate(-50%, 0));
+	        padding-left: 0 !important;
+    		padding-right: 0 !important;
+		}
+
+	} 
+}

@@ -1,0 +1,1274 @@
+# Translation of Themes - Appointment in Turkish
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-28 23:01:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Description of the plugin/theme
+msgid "Appointment WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout and much more. In the premium version you can add different type of slides like video, aside, quote, status and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts and many sections for business using the Homepage template. Appointment theme comes with various locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "Appointment WordPress teması, çarpıcı bloglar ve web siteleri oluşturmanıza izin veren, tamamen duyarlı ve çeviri için hazır bir temadır. Tema, şirketler, hukuk firmaları, seyahat, fotoğrafçılık, tarif, tasarım, sanat, kişisel ve diğer yaratıcı web siteleri ve bloglar için çok uygundur. Tema, mobil ve tablet dostu olması için Bootstrap 3 kullanılarak geliştirildi. WordPress özelleştiricide temanın görünümünü değiştirmek için çeşitli seçenekler bulunmaktadır. Tema özelleştirici kendi özel başlığınızı, site simgenizi, logonuzu, slaytlarınızı, hizmetlerinizi, açıklamanızı ve daha pek çok şeyi eklemek için kullanılabilir. Ücretli sürümde video, durum, alıntı, kenar ve standart gibi farklı slaytlar ekleyebilirsiniz; hepsinin farklı bir HTML görünümü vardır. Yerleşik bileşen sayısı, WPML için kenar çubukları desteği, Polylang çeviri eklentileri, Contact Form 7, portföy şablonu, bize ulaşın, portföy sütun yerleşimleri ve iş ana sayfası şablonundaki birçok bölüm. Appointment teması Türkçe çeviri ile birlikte gelir. Özelleştirmeye başlamak için Görünüm / Özelleştir'e gidin."
+
+#. Theme Name of the plugin/theme
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : Bilgi Bileşeni"
+
+#: functions/customizer/customizer-template.php:139
+msgid "Service page settings"
+msgstr "Hizmet sayfası ayarı"
+
+#: functions/customizer/customizer-template.php:92
+msgid "Blog page settings"
+msgstr "Blog sayfası ayarı"
+
+#: functions/customizer/customizer-template.php:66
+msgid "About Us page settings"
+msgstr "Hakkımızda sayfası ayarı"
+
+#: functions/customizer/customizer-callout.php:80
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: functions/appointment-info/sections/free_pro.php:123
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Callout, Portfolio [Unlimited Projects], Latest News, Clients, Testimonials and Custom Widgets"
+msgstr "En üst kısım, kaydırıcı [sınırsız slaytlar], hizmet [sınırsız hizmetler], açıklama alanı, portfolyo [sınırsız projeler], son haberler, müşteri, referans ve özel bileşen"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Alt kısım sosyal ağ simgelerini gizle"
+
+#: tag.php:12
+msgid "Tag Archive"
+msgstr "Etiket arşivi"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "Arama sonuçları "
+
+#: index-slider.php:24 index-slider.php:32 index-slider.php:40
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "Bu çok güçlü bir tema her türlü iş için kullanılabilir. Yerleşim düzgün ve zariftir."
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Kenar çubuğu bileşen alanı"
+
+#: functions/customizer/customizer_theme_style.php:89
+msgid "Enable custom color skin"
+msgstr "Özel renk şemasını etkinleştir"
+
+#: functions/customizer/customizer-slider.php:124
+#: functions/customizer/customizer-testimonial.php:115
+msgid "Duration"
+msgstr "Süre"
+
+#: functions/customizer/customizer-testimonial.php:114
+msgid "If the transition-delay value is 2000 that means 2 seconds."
+msgstr "Eğer geçiş gecikmesi değeri 2000 ise, 2 saniye demektir."
+
+#: functions/customizer/customizer-testimonial.php:91
+msgid "Animation"
+msgstr "Animasyon"
+
+#: functions/customizer/customizer-testimonial.php:19
+msgid "Homepage testimonial settings"
+msgstr "Ana sayfa referans ayarları"
+
+#: functions/customizer/customizer-testimonial.php:5
+msgid "Want to add testimonials? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Referans eklemek istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin</a>"
+
+#: functions/customizer/customizer-template.php:569
+msgid "Hide contact callout from Contact page"
+msgstr "İletişim açıklama alanını iletişim sayfasından gizle"
+
+#: functions/customizer/customizer-template.php:357
+msgid "Section description"
+msgstr "Bölüm açıklaması"
+
+#: functions/customizer/customizer-template.php:341
+msgid "Section title"
+msgstr "Bölüm başlığı"
+
+#: functions/customizer/customizer-template.php:325
+msgid "Hide contact info section from Contact page"
+msgstr "İletişim bilgisi bölümünü iletişim sayfasından gizle"
+
+#: functions/customizer/customizer-template.php:47
+msgid "Want to add contact callout information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "İletişim şablonuna iletişim açıklama alanı eklemek istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:39
+msgid "Want to add contact address information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "İletişim şablonuna iletişim formu bilgisi eklemek istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:31
+msgid "Want to add contact form information and a contact map in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "İletişim şablonuna iletişim formu bilgisi ve iletişim haritası eklemek istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:24
+msgid "Want to use the blog meta settings? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Blog meta ayarını kullanmak istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:15
+msgid "Want to add more services, testimonials, clients, footer callouts in the Service template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Hizmet şablonuna daha fazla hizmet, referans, müşteri, alt kısım açıklama alanı mı eklemek istiyorsunuz, o zaman <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:7
+msgid "Want to add a company About Us, Team, Client, footer, callout with the About template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Hakkında şablonuna hakkımızda, takım, müşteri, alt kısım açıklama alanı eklemek istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-slider.php:106
+#: functions/customizer/customizer-testimonial.php:93
+msgid "fade"
+msgstr "solma"
+
+#: functions/customizer/customizer-slider.php:39
+msgid "Hide slider from homepage"
+msgstr "Kaydırıcıyı ana sayfadan gizle"
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Hizmet bölümünü ana sayfadan gizle"
+
+#: functions/customizer/customizer-project.php:21
+msgid "Homepage project settings"
+msgstr "Ana sayfa proje ayarları"
+
+#: functions/customizer/customizer-news.php:53
+msgid "Hide post meta from News section"
+msgstr "Post metayı haberler bölümünden gizle"
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from Homepage"
+msgstr "Haberler bölümünü ana sayfadan gizle"
+
+#: functions/customizer/customizer-header.php:316
+#: functions/customizer/customizer-header.php:329
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: functions/customizer/customizer-footer-callout.php:70
+#: functions/customizer/customizer-footer-callout.php:125
+#: functions/customizer/customizer-footer-callout.php:181
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:154
+#: functions/customizer/customizer-service.php:216
+#: functions/customizer/customizer-service.php:278
+#: functions/customizer/customizer-service.php:340
+#: functions/customizer/customizer-service.php:403
+#: functions/customizer/customizer-template.php:371
+#: functions/customizer/customizer-template.php:425
+#: functions/customizer/customizer-template.php:480
+msgid "Icon"
+msgstr "Simge"
+
+#: functions/customizer/customizer-footer-callout.php:54
+msgid "Callout Header"
+msgstr "Açıklama alanı başlığı"
+
+#: functions/customizer/customizer-footer-callout.php:47
+msgid "Stay in touch with us"
+msgstr "Bizimle temasta kalın"
+
+#: functions/customizer/customizer-callout.php:148
+#: functions/customizer/customizer-callout.php:200
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+#: functions/customizer/customizer-header.php:235
+#: functions/customizer/customizer-header.php:274
+#: functions/customizer/customizer-header.php:310
+#: functions/customizer/customizer-template.php:661
+msgid "Open link in new tab"
+msgstr "Bağlantıyı yeni sekmede aç"
+
+#: functions/customizer/customizer-callout.php:132
+#: functions/customizer/customizer-callout.php:184
+#: functions/customizer/customizer-template.php:643
+msgid "Button Link"
+msgstr "Düğme bağlantısı"
+
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-callout.php:167
+#: functions/customizer/customizer-template.php:624
+msgid "Button Text"
+msgstr "Tuş metni"
+
+#: functions/customizer/customizer-callout.php:34
+msgid "Hide callout section from homepage"
+msgstr "Açıklama alanı bölümünü ana sayfadan gizle"
+
+#: functions/appointment-info/sections/github.php:98
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='http://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "Etkili bir web sitesi oluşturmanıza yardımcı olan iyi bilgi tabanı makaleleri sunuyoruz. Bu makaleleri <a href='http://webriti.com/help/category/themes/appointment/' target='_blank'>yardım bölümümüzde</a> bulabilirsiniz."
+
+#: functions/appointment-info/sections/free_pro.php:136
+msgid "Webriti Support Forum"
+msgstr "Webriti destek forumu"
+
+#: functions/appointment-info/sections/free_pro.php:125
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Hakkında, hizmet, portfolyo, blog sağ ve sol kenar çubuğu, tam genişlikte blog, tam genişlikte sayfa, iletişim sayfası ve çok daha fazlası."
+
+#: functions/appointment-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr "WordPress destek forumu"
+
+#: functions/appointment-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Ana sayfa şablonu, tam genişlikte sayfa şablonu ve sağ kenar çubuğu blog şablonu"
+
+#: functions/appointment-info/sections/free_pro.php:95
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "Kaydırıcı [sınırsız slaytlar], kaydırıcı altındaki bileşen alanı, hizmet [6 hizmet], açıklama alanı, son haberler"
+
+#: comments.php:75
+msgid "Logout"
+msgstr "Çıkış"
+
+#: functions/customizer/customizer-footer-callout.php:5
+msgid "Want to add footer callout content?<a href='http://www.webriti.com/appointment' target='_blank'> Upgrade to Pro</a>."
+msgstr "Alt kısım açıklama alanı içeriği eklemek istiyorsanız <a href='http://www.webriti.com/appointment' target='_blank'>ücretli sürüme yükseltin</a>."
+
+#: functions/customizer/customizer-client.php:21
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "Bölüm başlığı"
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr "Mesajınızı bırakın"
+
+#: comments.php:64
+msgid "Name"
+msgstr "İsim"
+
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Yorum yapabilmek için <a href=\"%s\">giriş yapmalısınız</a>."
+
+#: comments.php:24
+msgid "Posted on"
+msgstr "Yayın tarihi"
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "Yazar arşivi"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "HATA 404"
+
+#: functions/customizer/customizer-emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr "Kursa katıl"
+
+#: functions/customizer/customizer-emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "Bu e-posta kursunda, güvenilir ve sizin için daha fazla iş getiren bir web sitesi nasıl kurabileceğiniz konusunda son kullanılabilir ipuçları veren 4 öneri sunacağım."
+
+#: functions/customizer/customizer-emailcourse.php:23
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Web sitenizi 7 gün 24 saat çalışan ve asla zam istemeyen çalışkan bir satıcı olarak düşünün!"
+
+#: functions/customizer/customizer-emailcourse.php:21
+msgid "To bring you more business."
+msgstr "Size daha fazla iş getirmek için."
+
+#: functions/customizer/customizer-emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Bir web sitesi bir ve tek sebeple mevcuttur:"
+
+#: functions/customizer/customizer-emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "Güvenilir web siteleri oluşturun"
+
+#: functions/appointment-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr "Alt temalar"
+
+#: functions/appointment-info/welcome-screen.php:210
+msgid "Free vs PRO"
+msgstr "Ücretsiz ile Pro karşılaştırması"
+
+#: functions/appointment-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr "Eylem gerekli"
+
+#: functions/appointment-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: functions/appointment-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr "Tema bilgisini görüntüle"
+
+#: functions/appointment-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Yaşasın! Sizin için şu anda gerekli bir işlem yok."
+
+#: functions/appointment-info/welcome-screen.php:57
+msgid "Get started with Appointment Lite"
+msgstr "Appointment Lite ile başlayın"
+
+#: functions/appointment-info/welcome-screen.php:56
+msgid "Welcome! Thank you for choosing Appointment Lite! To take full advantage of the best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr "Merhaba! appointment lite temasını seçtiğiniz için teşekkürler. Temamızın sağladığı tüm imkanlardan faydalanabilmek için lütfen %smerhaba sayfamızı%s ziyaret edin."
+
+#: functions/appointment-info/sections/github.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Tema başka bir ünlü eklenti olan WPML'yi destekliyor. Bu desteğin yardımıyla birden çok dilde web sitesi oluşturabilirsiniz."
+
+#: functions/appointment-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "Çeviri hazır"
+
+#: functions/appointment-info/sections/github.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Özel bileşenlerimiz ile web sitesi oluşturmak çok basittir. Onları mevcut Kenar çubuğunun içine veya içeriğinde yerleştirmeniz yeterlidir."
+
+#: functions/appointment-info/sections/github.php:106
+msgid "Custom widget"
+msgstr "Özel bileşen"
+
+#: functions/appointment-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "İyi belgelenmiş"
+
+#: functions/appointment-info/sections/github.php:89
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "13 tane önceden ayarlanmış renk şeması edineceksiniz ve kendiniz de özelleştiricide özel renk ayarını kullanarak en sevdiğiniz renk şemalarını yapabilirsiniz."
+
+#: functions/appointment-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Referanslar güvenilirlik kazanmanın güçlü bir yoludur. Carousel efekti ile referansları görüntüleyebilirsiniz."
+
+#: functions/appointment-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "Referans özellikleri"
+
+#: functions/appointment-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "Son haberler bölümü"
+
+#: functions/appointment-info/sections/github.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Herhangi bir sayıda projeyi sergileyin. Tema sırasıyla 2, 3, 4 sütun portfolyo yerleşim şablonu kullanarak, 2, 3, 4 sütun ızgara yerleşimi oluşturmak için bir seçenek sağlayacaktır.  Gösterilecek pek çok projeleriniz varsa bu şablonlar cevap olacaktır. Ayrıca, tek bir yerde tüm portfolyo kategorilerini görüntüleyen kategorize portfolyo oluşturabilirsiniz."
+
+#: functions/appointment-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "Portfolyo özellikleri"
+
+#: functions/appointment-info/sections/github.php:51
+msgid "Service Features"
+msgstr "Hizmet özellikleri"
+
+#: functions/appointment-info/sections/github.php:43
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Sınırsız slaytlar oluşturabilir ve tema görünüm özelleştiricisinden kontrol edebilirsiniz. Kaydırıcı standart, kenar, alıntı, sohbet ve video gibi çeşitli posta biçimleriyle desteklendi."
+
+#: functions/appointment-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr "Alt yazı kaydırıcısı"
+
+#: functions/appointment-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "Çok basamaklı menü"
+
+#: functions/appointment-info/sections/github.php:25
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "Ücretli sürümde herhangi bir bileşeni kullanabileceğiniz en üst kısım kenar çubuğu alanına sahip olursunuz, tüm bileşenler biçimlendirilmiştir. Tema içinde burada kullanabileceğiniz birkaç bileşen oluşturduk. E-postayı, iletişim numarasını veya seçtiğiniz diğer bilgileri göstermek için Appointment bilgi bileşenini kullanın."
+
+#: functions/appointment-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "En üst kısım"
+
+#: functions/appointment-info/sections/github.php:17
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Bu özellik kısa adları URLden yeniden adlandırmanıza yardımcı olarak SEO dostu yapmanıza yardımcı olur."
+
+#: functions/appointment-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "Geri bildiriminiz bizim için değerlidir"
+
+#: functions/appointment-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr "Premium tema detayları"
+
+#: functions/appointment-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr "Premium tema desteği"
+
+#: functions/appointment-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr "Pro demosu"
+
+#: functions/appointment-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Lite demosu"
+
+#: functions/appointment-info/sections/getting-started.php:38
+msgid "Useful Links"
+msgstr "İşe yarar bağlantılar"
+
+#: functions/appointment-info/sections/getting-started.php:22
+msgid "You can use this theme for any type of business. It is compatible with popular plugins like Contact Form 7, WPML, Polylang, etc. The theme has a predefined version of a Contact page, Services page, Portfolio, column layout pages, About Us and Blog layout pages, helping you to create an effective web presence."
+msgstr "Bu temayı herhangi bir iş türü için kullanabilirsiniz. Contact Form 7, WPML, Polylang vb. popüler eklentilerle uyumludur. Tema, iletişim sayfasının, hizmet sayfasının, portfolyo sütun yerleşim sayfalarının, hakkımızda ve blog yerleşimi sayfalarının önceden tanımlanmış bir sürümüne sahiptir ve etkili bir web varlığı yaratmanıza yardımcı olur."
+
+#: functions/appointment-info/sections/getting-started.php:20
+msgid "This is a Business theme which is ideal for creating corporate, business, fashion and sports websites. The premium version has tons of features. The Homepage has a number of sections for showing sliders, your portfolio, user reviews, latest news, services, call to action and much more. Each section in the HomePage Template is well designed according to business requirements."
+msgstr "Kurumsal, iş, moda ve spor web siteleri oluşturmak için ideal iş teması. Ücretli sürümün pek çok özellikleri var. Ana sayfa, kaydırıcıyı, portfolyonuzu, kullanıcıların incelemelerini, en son haberleri, hizmetleri, açıklama alanı ve daha pek çok şeyi içeren bölümlere sahiptir. Ana sayfa şablonundaki her bölüm iş gereksinimlerine göre iyi tasarlanmıştır."
+
+#: functions/appointment-info/sections/getting-started.php:14
+msgid "About Appointment Theme"
+msgstr "Appointment teması hakkında"
+
+#: functions/appointment-info/sections/free_pro.php:147
+msgid "Get Appointment PRO Now!"
+msgstr "Appointment Proyu şimdi alın!"
+
+#: functions/appointment-info/sections/free_pro.php:119
+msgid "Appointment Pro"
+msgstr "Appointment Pro"
+
+#: functions/appointment-info/sections/free_pro.php:91
+msgid "Appointment Lite"
+msgstr "Appointment Lite"
+
+#: functions/appointment-info/sections/free_pro.php:80
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Destek forumumuzda 7x24 anında destek alın."
+
+#: functions/appointment-info/sections/free_pro.php:79
+msgid "Support Forum"
+msgstr "Destek forumu"
+
+#: functions/appointment-info/sections/free_pro.php:74
+msgid "WPML / Polylang Support"
+msgstr "WPML / Polylang desteği"
+
+#: functions/appointment-info/sections/free_pro.php:69
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Kullanıcı geri bildirimini ana sayfada ve hizmetler sayfasında gösterin."
+
+#: functions/appointment-info/sections/free_pro.php:68
+msgid "Testimonial / Review Section"
+msgstr "Referans / İnceleme bölümü"
+
+#: functions/appointment-info/sections/free_pro.php:64
+msgid "Show all your services in a single place."
+msgstr "Tüm hizmetlerinizi tek bir yerde gösterin."
+
+#: functions/appointment-info/sections/free_pro.php:63
+msgid "Services Page"
+msgstr "Hizmet sayfası"
+
+#: functions/appointment-info/sections/free_pro.php:59
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "WordPress metin düzenleyicisine eklenen takım üyelerini, müşterilerinizi ve özel içeriği gösterin."
+
+#: functions/appointment-info/sections/free_pro.php:58
+msgid "About Us Page"
+msgstr "Hakkımızda sayfası"
+
+#: functions/appointment-info/sections/free_pro.php:54
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Projenizi / portfolyo koleksiyonunuzu 2 sütun, 3 sütun ve 4 sütun ile yapın. Ayrıca projeyi / portfolyoyu kategorilere göre görüntüleyebilirsiniz."
+
+#: functions/appointment-info/sections/free_pro.php:53
+msgid "Portfolio"
+msgstr "Portfolyo"
+
+#: functions/appointment-info/sections/free_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Google haritasını kullanarak web sitenizde mağaza ve işletme konumunuzu görüntülemek için."
+
+#: functions/appointment-info/sections/free_pro.php:47
+msgid "Google Map"
+msgstr "Google harita"
+
+#: functions/appointment-info/sections/free_pro.php:43
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "13 tane önceden ayarlanmış renk düzeninin keyfini çıkarın. Herhangi bir kod eklemeden özel dış görünüm de oluşturabilirsiniz."
+
+#: functions/appointment-info/sections/free_pro.php:42
+#: functions/appointment-info/sections/github.php:88
+msgid "Multiple Color Schemes"
+msgstr "Çoklu renk şemaları"
+
+#: functions/appointment-info/sections/free_pro.php:38
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Bu özellik URL içindeki özel yazı tipi kısa adlarını yeniden adlandırmanızı sağlar."
+
+#: functions/appointment-info/sections/free_pro.php:37
+#: functions/appointment-info/sections/github.php:16
+msgid "SEO Friendly URL"
+msgstr "SEO uyumlu URL"
+
+#: functions/appointment-info/sections/free_pro.php:33
+msgid "Contact Form Support"
+msgstr "İletişim formu desteği"
+
+#: functions/appointment-info/sections/free_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "Tüm cihazlarda duyarlı yerleşim"
+
+#: functions/appointment-info/sections/free_pro.php:28
+msgid "Mobile Friendly"
+msgstr "Mobile uyumlu"
+
+#: functions/appointment-info/sections/free_pro.php:24
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "Çeşitli sayfa şablonları Appointment Premium teması içine dahil edilmiştir"
+
+#: functions/appointment-info/sections/free_pro.php:23
+msgid "Page Templates Support"
+msgstr "Sayfa şablonları desteği"
+
+#: functions/appointment-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Ön sayfadaki bölüm sayısını bulacaksınız."
+
+#: functions/appointment-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Ön sayfa bölümleri"
+
+#: functions/appointment-info/sections/free_pro.php:13
+msgid "Features"
+msgstr "Özellikler"
+
+#: functions/appointment-info/sections/child-themes.php:124
+msgid "Mandy"
+msgstr "Mandy"
+
+#: functions/appointment-info/sections/child-themes.php:107
+#: functions/appointment-info/sections/child-themes.php:139
+msgid "Appointment Red - Current theme"
+msgstr "Appointment Red - Şuan ki tema"
+
+#: functions/appointment-info/sections/child-themes.php:92
+msgid "Appointment Red"
+msgstr "Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:90
+#: functions/appointment-info/sections/child-themes.php:122
+msgid "Appointment Red Child Theme"
+msgstr "Appointment Red alt teması"
+
+#: functions/appointment-info/sections/child-themes.php:75
+msgid "Appointment - Current theme"
+msgstr "Appointment - Şuan ki tema"
+
+#: functions/appointment-info/sections/child-themes.php:60
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:58
+msgid "Appointment Green Child Theme"
+msgstr "Appointment Green alt teması"
+
+#: functions/appointment-info/sections/child-themes.php:45
+#: functions/appointment-info/sections/child-themes.php:76
+#: functions/appointment-info/sections/child-themes.php:108
+#: functions/appointment-info/sections/child-themes.php:140
+#: functions/appointment-info/sections/child-themes.php:172
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: functions/appointment-info/sections/child-themes.php:44
+msgid "Appointment Blue - Current theme"
+msgstr "Appointment Blue - Şuan ki tema"
+
+#: functions/appointment-info/sections/child-themes.php:38
+#: functions/appointment-info/sections/child-themes.php:69
+#: functions/appointment-info/sections/child-themes.php:101
+#: functions/appointment-info/sections/child-themes.php:133
+#: functions/appointment-info/sections/child-themes.php:165
+msgid "Live Preview"
+msgstr "Canlı önizleme"
+
+#: functions/appointment-info/sections/child-themes.php:37
+#: functions/appointment-info/sections/child-themes.php:68
+#: functions/appointment-info/sections/child-themes.php:100
+#: functions/appointment-info/sections/child-themes.php:132
+#: functions/appointment-info/sections/child-themes.php:164
+msgid "Install %s now"
+msgstr "%s temasını şimdi yükle"
+
+#: functions/appointment-info/sections/child-themes.php:29
+msgid "Appointment Blue"
+msgstr "Appointment Blue"
+
+#: functions/appointment-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Appointment child themes that will totally transform the look of your site."
+msgstr "Aşağıda tamamen sitenizin görünümünü değiştirecek appointment alt temalarının seçimini bulacaksınız."
+
+#: functions/appointment-info/sections/child-themes.php:16
+msgid "Install & Use Appointment Child Themes"
+msgstr "Appointment alt temalarını kur ve kullan"
+
+#: functions/appointment-info/sections/actions-required.php:30
+#: functions/appointment-info/sections/actions-required.php:37
+#: functions/appointment-info/sections/child-themes.php:27
+#: functions/appointment-info/sections/getting-started.php:28
+msgid "Appointment Blue Child Theme"
+msgstr "Appointment Blue alt teması"
+
+#: functions/appointment-info/sections/actions-required.php:22
+msgid "Do you want to show the Homepage as a Front Page? You need to set the Homepage as a static page, as shown in the snapshot below. Now go to the Customizer and start configuring the sections in the Business Template. We hope you will find this theme useful."
+msgstr "Ana sayfayı ön sayfa olarak göstermek isterseniz? Aşağıdaki anlık görselde gösterildiği gibi ana sayfayı statik sayfa olarak ayarlamanız gerekir. Şimdi özelleştiriciye gidin ve iş şablonundaki bölümleri yapılandırmaya başlayın. Bu temayı yararlı bulacağınızı umuyoruz."
+
+#: functions/appointment-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Display"
+msgstr "2. Ana sayfayı ön sayfa görünümüne ata"
+
+#: functions/appointment-info/sections/actions-required.php:14
+msgid "To set up an exact replica of the Homepage as shown in our demo, you have to create a WordPress page using the Home Page Template. The Business Template has all the sections like banners, services, portfolio, etc., which are ideal for any business site. Kindly refer to the snapshot."
+msgstr "Demomuzda gösterildiği gibi ana sayfanın tam kopyasını ayarlamak için \"ana sayfa şablonunu\" kullanarak bir WordPress sayfası oluşturmanız gerekir. Herhangi bir işletme sitesi için ideal olan iş şablonu afiş, hizmet, portfolyo vb. tüm bölümleri gösterir. Lütfen ekran görüntüsüne bakın."
+
+#: functions/appointment-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr "1. Ana sayfa şablonunu kullanarak ana sayfayı oluşturmak."
+
+#: functions/customizer/customizer-template.php:127
+msgid "Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr "Yazı metasını blog, arşiv, sayfalar, kategoriler, yazar vb. sayfalardan gizle."
+
+#: functions/customizer/customizer-template.php:434
+msgid "Our office location"
+msgstr "Ofisimizin konumu"
+
+#: functions/customizer/customizer-testimonial.php:13
+msgid "Testimonial settings"
+msgstr "Referans ayarları"
+
+#: functions/customizer/customizer-testimonial.php:46
+msgid "What our clients say:"
+msgstr "Müşterilerimiz ne diyor:"
+
+#: functions/customizer/customizer-template.php:350
+#: functions/customizer/customizer-testimonial.php:61
+msgid "Read what customers are saying:"
+msgstr "Müşterilerin ne söylediklerini okuyun:"
+
+#: functions/customizer/customizer-testimonial.php:129
+msgid "Click here to add testimonial"
+msgstr "Referans eklemek için buraya tıklayın"
+
+#: functions/customizer/customizer_theme_style.php:13
+#: functions/customizer/customizer_theme_style.php:54
+msgid "Predefined colors"
+msgstr "Ön tanımlı renkler"
+
+#: functions/customizer/customizer_theme_style.php:40
+msgid "Theme style setting"
+msgstr "Tema biçim ayarı"
+
+#: functions/customizer/customizer_theme_style.php:108
+msgid "Skin color"
+msgstr "Dış görünüm rengi"
+
+#: functions/customizer/customizer-client.php:5
+msgid "Want to add a client image and link?"
+msgstr "Müşteri görseli ve bağlantısı eklemek ister misin?"
+
+#: functions/customizer/customizer-client.php:5
+#: functions/customizer/customizer-pro.php:20
+#: functions/customizer/customizer-project.php:6
+#: functions/customizer/customizer-slider.php:5
+#: functions/customizer/customizer_theme_style.php:12
+msgid "Upgrade to Pro"
+msgstr "Ücretli sürüme yükselt"
+
+#: functions/customizer/customizer-client.php:15
+msgid "Client settings"
+msgstr "Müşteri ayarları"
+
+#: functions/customizer/customizer-client.php:35
+#: functions/customizer/customizer-footer-callout.php:35
+#: functions/customizer/customizer-project.php:37
+#: functions/customizer/customizer-slider.php:157
+#: functions/customizer/customizer-template.php:82
+#: functions/customizer/customizer-template.php:107
+#: functions/customizer/customizer-template.php:156
+#: functions/customizer/customizer-template.php:185
+#: functions/customizer/customizer-template.php:305
+#: functions/customizer/customizer-template.php:547
+#: functions/customizer/customizer-testimonial.php:35
+msgid "Appointment upgrade"
+msgstr "Appointment yükseltmesi"
+
+#: functions/customizer/customizer-footer-callout.php:14
+#: functions/customizer/customizer-footer-callout.php:21
+msgid "Footer callout settings"
+msgstr "Alt kısım açıklama alanı ayarları"
+
+#: functions/customizer/customizer-footer-callout.php:134
+msgid "We are open Mon - Fri"
+msgstr "Pzt - Cum arası açığız"
+
+#: functions/customizer/customizer-footer-callout.php:154
+msgid "Mon - Fri : 08.00 - 18.00"
+msgstr "Pzt - Cum 08.00 - 18.00"
+
+#: functions/customizer/customizer-footer-callout.php:190
+#: functions/customizer/customizer-template.php:489
+msgid "Drop us a mail"
+msgstr "Bize bir e-posta bırakın"
+
+#: functions/customizer/customizer-project.php:6
+msgid "Want to add projects and categorization?"
+msgstr "Projeleri ve kategorilendirmeyi eklemek ister misin?"
+
+#: functions/customizer/customizer-project.php:15
+msgid "Project settings"
+msgstr "Proje ayarları"
+
+#: functions/customizer/customizer-project.php:48
+msgid "Latest projects"
+msgstr "Son projeler"
+
+#: functions/customizer/customizer-project.php:105
+msgid "Click here to add project"
+msgstr "Proje eklemek için buraya tıklayın"
+
+#: functions/customizer/customizer-project.php:91
+msgid "Input number of projects"
+msgstr "Projelerin girdi adedi"
+
+#: functions/customizer/customizer-project.php:135
+msgid "Select project category archive column layout"
+msgstr "Ürün kategori arşivi sütun yerleşimini seçin"
+
+#: functions/customizer/customizer-template.php:59
+msgid "Template settings"
+msgstr "Şablon ayarları"
+
+#: functions/customizer/customizer-template.php:169
+msgid "Contact page setting"
+msgstr "İletişim sayfası ayarı"
+
+#: functions/customizer/customizer-template.php:195
+msgid "Send us a message"
+msgstr "Bize bir mesaj gönderin"
+
+#: functions/customizer/customizer-template.php:202
+msgid "Contact form title"
+msgstr "İletişim formu başlığı"
+
+#: functions/customizer/customizer-template.php:220
+msgid "Hide Google Map"
+msgstr "Google haritasını gizle"
+
+#: functions/customizer/customizer-template.php:230
+msgid "Find the address"
+msgstr "Adresi bul"
+
+#: functions/customizer/customizer-template.php:237
+msgid "Contact Google Map title"
+msgstr "İletişim Google haritası başlığı"
+
+#: functions/customizer/customizer-template.php:253
+msgid "Google Map URL"
+msgstr "Google harita URL"
+
+#: functions/customizer/customizer-template.php:267
+msgid "Click here to add Google Map"
+msgstr "Google haritası eklemek için buraya tıklayın"
+
+#: functions/customizer/customizer-template.php:290
+msgid "Contact information settings"
+msgstr "İletişim bilgisi ayarları"
+
+#: functions/customizer/customizer-template.php:334
+#: functions/customizer/customizer-template.php:579
+msgid "Contact info"
+msgstr "İletişim bilgisi"
+
+#: functions/widgets/sidebars.php:35 functions/widgets/sidebars.php:37
+msgid "Right widget area below slider"
+msgstr "Kaydırıcı altındaki sağ bileşen alanı"
+
+#: functions/widgets/sidebars.php:44 functions/widgets/sidebars.php:46
+msgid "Center widget area below slider"
+msgstr "Kaydırıcı altındaki orta bileşen alanı"
+
+#: functions/widgets/sidebars.php:26 functions/widgets/sidebars.php:28
+msgid "Left widget area below slider"
+msgstr "Kaydırıcı altındaki sol bileşen alanı"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Ana sayfa"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Tam genişlik"
+
+#: functions/customizer/customizer-callout.php:98
+#: functions/customizer/customizer-template.php:614 theme_setup_data.php:59
+msgid "Purchase Now"
+msgstr "Şimdi satın al"
+
+#: single.php:17
+msgid "About the author"
+msgstr "Yazar hakkında"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Ara"
+
+#: search.php:18
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka anahtar kelimeler ile tekrar deneyin."
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: index-slider.php:23 index-slider.php:31 index-slider.php:39
+msgid "Powerful Bootstrap Theme"
+msgstr "Güçlü bootstrap teması"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Alt kısım bileşen alanı"
+
+#: functions/customizer/customizer-callout.php:66
+#: functions/customizer/customizer-footer-callout.php:107
+#: functions/customizer/customizer-footer-callout.php:163
+#: functions/customizer/customizer-footer-callout.php:218
+#: functions/customizer/customizer-news.php:85
+#: functions/customizer/customizer-project.php:73
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:253
+#: functions/customizer/customizer-service.php:314
+#: functions/customizer/customizer-service.php:377
+#: functions/customizer/customizer-service.php:440
+#: functions/customizer/customizer-template.php:407
+#: functions/customizer/customizer-template.php:462
+#: functions/customizer/customizer-template.php:517
+#: functions/customizer/customizer-template.php:604
+#: functions/customizer/customizer-testimonial.php:68
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "Açıklama"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "Fontawesome simgesi"
+
+#: functions/customizer/customizer-callout.php:51
+#: functions/customizer/customizer-footer-callout.php:88
+#: functions/customizer/customizer-footer-callout.php:144
+#: functions/customizer/customizer-footer-callout.php:199
+#: functions/customizer/customizer-news.php:70
+#: functions/customizer/customizer-project.php:55
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:172
+#: functions/customizer/customizer-service.php:235
+#: functions/customizer/customizer-service.php:296
+#: functions/customizer/customizer-service.php:358
+#: functions/customizer/customizer-service.php:421
+#: functions/customizer/customizer-template.php:389
+#: functions/customizer/customizer-template.php:443
+#: functions/customizer/customizer-template.php:498
+#: functions/customizer/customizer-template.php:586
+#: functions/customizer/customizer-testimonial.php:53
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Başlık"
+
+#: functions/customizer/customizer-footer-callout.php:79
+#: functions/customizer/customizer-template.php:380
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "Sorunuz mu var? Bizi şimdi arayın"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Appointment teması bilgi bileşeni"
+
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: functions/customizer/customizer-slider.php:143
+msgid "Input number of slides"
+msgstr "Slayt girdi adedi"
+
+#: functions/customizer/customizer-slider.php:104
+msgid "Select slider animation"
+msgstr "Kaydırıcı animasyonunu seçin"
+
+#: functions/customizer/customizer-slider.php:93
+#: functions/customizer/customizer-slider.php:106
+#: functions/customizer/customizer-testimonial.php:81
+#: functions/customizer/customizer-testimonial.php:93
+msgid "slide"
+msgstr "slayt"
+
+#: functions/customizer/customizer-slider.php:82
+msgid "Select category for slider"
+msgstr "Kaydırıcı için kategori seçin"
+
+#: functions/customizer/customizer-slider.php:64
+msgid "Category slider"
+msgstr "Kategori kaydırıcısı"
+
+#: functions/customizer/customizer-slider.php:63
+msgid "Demo slider"
+msgstr "Demo kaydırıcı"
+
+#: functions/customizer/customizer-slider.php:60
+msgid "Select slider type"
+msgstr "Kaydırıcı tipini seç"
+
+#: functions/customizer/customizer-slider.php:20
+msgid "Featured slider settings"
+msgstr "Öne çıkan kaydırıcı ayarları"
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Slider settings"
+msgstr "Kaydırıcı ayarları"
+
+#: functions/customizer/customizer-service.php:461
+msgid "Add more services"
+msgstr "Daha fazla hizmet ekle"
+
+#: functions/customizer/customizer-service.php:384
+msgid "Service section six"
+msgstr "Altıncı hizmet bölümü"
+
+#: functions/customizer/customizer-service.php:322
+msgid "Service section five"
+msgstr "Beşinci hizmet bölümü"
+
+#: functions/customizer/customizer-service.php:261
+msgid "Service section four"
+msgstr "Dördüncü hizmet bölümü"
+
+#: functions/customizer/customizer-service.php:197
+msgid "Service section three"
+msgstr "Üçüncü hizmet bölümü"
+
+#: functions/customizer/customizer-service.php:135
+msgid "Service section two"
+msgstr "İkinci hizmet bölümü"
+
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:163
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:349
+#: functions/customizer/customizer-service.php:412 theme_setup_data.php:36
+#: theme_setup_data.php:39 theme_setup_data.php:42 theme_setup_data.php:45
+#: theme_setup_data.php:48 theme_setup_data.php:51
+msgid "Easy to use"
+msgstr "Kullanımı kolay"
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Birinci hizmet bölümü"
+
+#: functions/customizer/customizer-service.php:42 theme_setup_data.php:33
+msgid "Our services"
+msgstr "Hizmetlerimiz"
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Hizmet ayarları"
+
+#: functions/customizer/customizer-pro.php:77
+msgid "The Pro version gives you more opportunities to enhance your site and business. In order to create an effective online presence, one must showcase their wide range of products, use a Contact Us enquiry form, create an effective About Us page, introduce the Team Members, etc. The Pro version offers all this. Buy the Pro version today and give us the chance to serve you better."
+msgstr "Ücretli  sürüm sitenizi ve işletmenizi geliştirmek için daha fazla fırsat sunar. Etkili çevirim içi varlığı oluşturmak için  vitrinde geniş ürün yelpazesine sahip olmak, iletişim formu kullanmak, etkili hakkında sayfası yapmak, ekip üyelerini tanıtmak vb.  gerekir. Ücretli sürüm hepsini verecek. Ücretli sürümünü satın alın ve bize daha iyi hizmet verebilmemiz için bir şans verin."
+
+#: functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr "Belgeler"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "Değerlendirmenizi ekleyin"
+
+#: functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PRO"
+msgstr "Ücretli sürüme yükselt"
+
+#: functions/customizer/customizer-news.php:122
+msgid "Select number of Posts"
+msgstr "Yazı sayısını seçin"
+
+#: functions/customizer/customizer-news.php:102
+msgid "Select category for Latest News"
+msgstr "Son haberler için kategori seçin"
+
+#: functions/customizer/customizer-news.php:63 theme_setup_data.php:69
+msgid "Latest news"
+msgstr "Son haberler"
+
+#: functions/customizer/customizer-news.php:8
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News settings"
+msgstr "Son haberler ayarları"
+
+#: functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Faviconunuzu seçin (ideal genişlik ve yükseklik 16x16px veya 32x32px dir)"
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr "Favicon yükleyin"
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "Site simgesi"
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Logo metnini göster"
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr "Logo yüksekliğini girin"
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr "Logo genişliğini girin"
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Logoyu etkinleştir/etkisizleştir"
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Logo için 150x150px görsel yükleyin"
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Üst kısım logo ayarları"
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Üst kısım metni"
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Üst kısım manşeti"
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Özel üst kısım ayarları"
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Üst kısım ayarları"
+
+#: functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/customizer/customizer-copyright.php:203 functions.php:98
+msgid "GooglePlus URL"
+msgstr "GooglePlus URL"
+
+#: functions/customizer/customizer-copyright.php:167
+#: functions/customizer/customizer-header.php:292 functions.php:97
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-copyright.php:132
+#: functions/customizer/customizer-header.php:256 functions.php:96
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-copyright.php:96
+#: functions/customizer/customizer-header.php:218 functions.php:95
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr "Üst kısım sosyal ağ simgelerini gizle"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Sosyal ağ bağlantıları"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Telif hakkı metnini gizle"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Telif hakkı metni"
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:75
+msgid "No copyright information has been saved yet."
+msgstr "Henüz hiçbir telif hakkı bilgisi kaydedilmedi."
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Alt kısım telif hakkı ayarları"
+
+#: functions/customizer/customizer-callout.php:157 theme_setup_data.php:62
+msgid "Get in Touch"
+msgstr "Temasa geç"
+
+#: functions/customizer/customizer-callout.php:116
+msgid "Button two"
+msgstr "İkinci düğme"
+
+#: functions/customizer/customizer-callout.php:91
+msgid "Button one"
+msgstr "İlk düğme"
+
+#: functions/customizer/customizer-callout.php:44 theme_setup_data.php:56
+msgid "Want to say hey or find out more?"
+msgstr "Daha fazlasını bulmak için merhaba demek ister misiniz?"
+
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+#: functions/customizer/customizer-template.php:532
+msgid "Contact callout settings"
+msgstr "İletişim açıklama alanı ayarları"
+
+#: functions/breadcrumbs/breadcrumbs.php:102 functions.php:83
+msgid "Page"
+msgstr "Sayfa"
+
+#: functions/template-tag.php:23 index-news.php:47
+msgid "By"
+msgstr "ile"
+
+#: content.php:12 functions.php:115 functions.php:132 index-slider.php:25
+#: index-slider.php:33 index-slider.php:41
+msgid "Read More"
+msgstr "Devamını oku"
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr "Bir cevap yazın"
+
+#: comments.php:77
+msgid "Send Message"
+msgstr "Mesajı gönder"
+
+#: comments.php:75
+msgid "Logout from this Account"
+msgstr "Bu hesaptan çıkış yap"
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr "Giriş yapıldı "
+
+#: comments.php:65
+msgid "Email"
+msgstr "E-Posta"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &arr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&arr; Eski yorumlar"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:40
+msgid "Comments so far"
+msgstr "yorum"
+
+#: comments.php:40
+msgid "1 Comment so far"
+msgstr "1 yorum"
+
+#: comments.php:40
+msgid "No Comments so far"
+msgstr "Yorum yok"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim bekliyor."
+
+#: comments.php:26
+msgid "Edit"
+msgstr "Düzenle"
+
+#: comments.php:12
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Bu yazı parola korumalı. Yorumları görmek için parola girin."
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "Blog arşivi"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "Yıllık arşiv"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "Aylık arşiv"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Günlük arşiv"
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "Geri dön"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Üzgünüz ancak aradığınız sayfa mevcut değil."
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Off! Bu sayfa bulunamadı"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Author URI of the plugin/theme
+msgid "https://WordPress.org/"
+msgstr "https://wordpress.org/"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/appointment-wordpress-theme-1/"
+msgstr "http://webriti.com/appointment-wordpress-theme-1/"

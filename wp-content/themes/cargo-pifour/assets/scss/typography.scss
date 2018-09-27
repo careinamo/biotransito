@@ -1,0 +1,138 @@
+/*--------------------------------------------------------------
+2.0 Typography
+--------------------------------------------------------------*/
+::-moz-selection {
+    color: #ffffff;
+    background-color: $primary_color;
+}
+body{
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 400;
+    background-color: #ffffff;
+    overflow: visible;
+    overflow-x: hidden;
+    color: #848484;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato";
+    color: #181818;
+    word-break: break-word;
+    a{
+        color: inherit;
+        font-family: inherit;
+        &:hover{
+            color: $link_color_hover;
+        }
+    }
+}
+ 
+h1, .h1 { font-size: 26px;font-weight: 900; }
+h2, .h2 { font-size: 24px; font-weight: 900;}
+h3, .h3 { font-size: 22px;font-weight: 700; }
+h4, .h4 { font-size: 20px; font-weight: 700;}
+h5, .h5 { font-size: 18px; font-weight: 700;}
+h6, .h6 { font-size: 16px; font-weight: 700; }
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+	padding-top: 0;
+    margin-top: 0;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+p{
+    font-size: 13px;
+}
+blockquote {
+    font-family: "Poppins";
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 30px;
+    padding: 0 ;
+    position: relative;
+    border-left: none;
+    clear: both;
+    overflow: hidden;
+    p{  
+        margin: 0 0 10px;
+        &:first-child{
+            &:before{
+                content: "\f10d";
+                font-family: 'fontawesome';
+                padding-right: 10px;
+                vertical-align: text-bottom; 
+                font-size: 8px; 
+            }
+            &:after{
+                content: "\f10e";
+                font-family: 'fontawesome';
+                padding-left: 10px;
+                vertical-align: text-bottom;  
+                font-size: 8px;
+            }
+        }
+        &:last-child{
+            font-size: 15px;
+        }
+        &+p{
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: 700;
+       }
+       br{
+        display: none;
+       }
+    }
+    cite {
+        float: right;
+        margin-top: 20px;
+    }
+}
+
+
+img, figure {
+    max-width: 100%;
+    height: auto;
+}
+ 
+
+address {
+	margin: 0 0 10px;
+}
+
+pre {
+    border-radius: 0;
+    white-space: pre;
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+:focus {
+	outline: none;
+}

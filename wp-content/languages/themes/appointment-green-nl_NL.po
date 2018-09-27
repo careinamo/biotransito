@@ -1,0 +1,32 @@
+# Translation of Themes - Appointment Green in Dutch
+# This file is distributed under the same license as the Themes - Appointment Green package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-25 08:15:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Appointment Green\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Appointment Green theme is a child theme of appointment which has several sections such as slider, services , widget area, etc etc. The green of this theme makes your site looks clean and elegant. Appointment Green theme comes with various locales."
+msgstr "Een Bedrijfsthema welke ideaal is voor het maken van een ondernemings- / bedrijfswebsite. Appointment Green-thema is een subthema van Appointment welke verschillende secties heeft, zoals een slider, diensten, widgetgebied, enz. Het groen van dit thema geeft een frisse en elegante uitstraling. Appointment Green-thema heeft verschillende talen."
+
+#. Theme Name of the plugin/theme
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/appointment-green-child-version-details-page-1/"
+msgstr "https://webriti.com/appointment-green-child-version-details-page-1/"
